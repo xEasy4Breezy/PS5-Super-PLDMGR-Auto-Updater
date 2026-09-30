@@ -62,37 +62,37 @@
     <item>
       <title>A53 Kstuff Shadowmountplus 3In1 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: 23571d4329978b2089c9bee6feb30531be86dd87c7891999a338b325795f0787</description>
+      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: f32ab65c5136539d0ab7fee41a78212c613d39fedfdf5895bc3325f56617877c</description>
     </item>
     <item>
       <title>A53 Kstuff Smp (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: dde582e067dd008b1eec5c6f2fe0ed1374af01b185b8762d8489c125af49cbca</description>
+      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: b1ec62b73e4bf9998624d700bde6fefa7d6cbddfab49658387dd1dd6081a9d4c</description>
     </item>
     <item>
       <title>Kstuff Ng (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf</link>
-      <description>Experimental Kstuff NG - Checksum: e31b86de9859f2ff6c03942f62ffa30f91129f8678365ab97c61d782435e98e5</description>
+      <description>Experimental Kstuff NG - Checksum: bf8ceaa711a0449371bedeaf3166e5f2fa33f95afc99cd8cd89d214dd3a19dbb</description>
     </item>
     <item>
       <title>Kstuff 1.13 Fpkg Dr Test3 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf</link>
-      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 - Checksum: 6372fdef7f803f23543ea5a3bbd47d6b4c2dc59ad5cf6778c69e42c4f355f43f</description>
+      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 - Checksum: 621162e908bd89c98ad523004eb5f22cdbd82fa545c6f57ab20a8ed243ce87d7</description>
     </item>
     <item>
       <title>A53 Ppr Install 1140 20.09 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf</link>
-      <description>a53_ppr_install_1140_20.09.elf - support 1.00-11.40 - Checksum: 9f633e92d18f2625ebe357f63decc7e917fe558983a7504ec684693b703c163a</description>
+      <description>a53_ppr_install_1140_20.09.elf - support 1.00-11.40 - Checksum: b61fd6a8e9d52e2699341c3ba2df6cdc7c0bf4df5794a7cdd80677c7b3851fba</description>
     </item>
     <item>
       <title>A53 Ppr Install 1160 20.09 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf</link>
-      <description>a53_ppr_install_1160_20.09.elf - 11.60 only - Checksum: 79053b2dfce03c9eff2eed1dc020edc18af51c27a75cf0116b4ce8dbdfe96be0</description>
+      <description>a53_ppr_install_1160_20.09.elf - 11.60 only - Checksum: 47bb1a46a548d6e2d7699d0130eeaaaa37f007267d75617b487899425bc82cf7</description>
     </item>
     <item>
-      <title>Webkit Autoloader Installer (v0.5.1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.1/webkit-autoloader-installer_v0.5.1.elf</link>
-      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: 80083f76383944e1f87c2d4126e4e067cd70bd8013feb538575bc2cb08258a78</description>
+      <title>Webkit Autoloader Installer (v0.5.2)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf</link>
+      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a</description>
     </item>
     <item>
       <title>Host Psm Poop2Jb V1.2.0 Instala Pldmgr En (v1.2.0)</title>
@@ -115,14 +115,14 @@
       <description>Host-PSM pooP2JB. - Checksum: 90f1ec197e66bbf4fa1a3bce040d6a5d04d571c4f8290f608401e8f7c2e9e0a4</description>
     </item>
     <item>
-      <title>Zftpd (v1.5.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21 - Checksum: 68a80e1cb45544c15b1581a49154ad14aa8e29483e5fec786f2a95e0e28ea6cb</description>
+      <title>Zftpd (v1.6.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.6.0/zftpd_v1.6.0.elf</link>
+      <description>FTP server payload for PS5. Port: 21 - Checksum: 39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d</description>
     </item>
     <item>
-      <title>Zhttp (v1.5.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.5.0/zhttp_v1.5.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21 - Checksum: 6cf6a738112fc339619ebe772690fa611f60ecdb20164a0e3f49e137277bc42b</description>
+      <title>Zhttp (v1.6.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.6.0/zhttp_v1.6.0.elf</link>
+      <description>FTP server payload for PS5. Port: 21 - Checksum: fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497</description>
     </item>
     <item>
       <title>Elfldr (v0.26)</title>
@@ -232,7 +232,7 @@
     <item>
       <title>Ghost Toothapi (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf</link>
-      <description>ghost-toothAPI. - Checksum: d7df28634676e790de521cb879b48240f0a4b85cade1aa1055e87ee6daf31c63</description>
+      <description>ghost-toothAPI. - Checksum: fef342b225fa080997465b23cba0c40cb64263e626b3eb9e9cb8c5d1ccdd62cb</description>
     </item>
     <item>
       <title>Pegasus Dl (v1.10.1)</title>
@@ -328,11 +328,6 @@
       <title>Prosperomgr (v1.1)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf</link>
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c</description>
-    </item>
-    <item>
-      <title>Elf Launcher (v1.0.5)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/v1.0.5/elf-launcher_v1.0.5.elf</link>
-      <description>PS5 launcher for ELF payloads. - Checksum: ffaba582a76748f2a239d5ec3ebe6d38645c88771b8b4f29d722c8203bb8bfdc</description>
     </item>
     <item>
       <title>Np Fake Signin (v1.3)</title>
@@ -445,9 +440,9 @@
       <description>PS5 payload for collecting hardware and runtime telemetry. - Checksum: ad5014112dec619779619d0ea01a984b3c8267fed682eca5687f34c9eade51cb</description>
     </item>
     <item>
-      <title>Cheatrunner (v0.17)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Cheat/CheatRunner/v0.17/CheatRunner_v0.17.elf</link>
-      <description>CheatRunner. - Checksum: 2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773</description>
+      <title>Cheatrunner (v0.17.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Cheat/CheatRunner/v0.17.1/CheatRunner_v0.17.1.elf</link>
+      <description>CheatRunner. - Checksum: 6863f06cb6ff41f846d84a0542c21469b52cacf55c9e6a0e2c74c114b3a55212</description>
     </item>
     <item>
       <title>Kylin Core Community Lite V131 Global Release (Source-Fixe)</title>
