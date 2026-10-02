@@ -60,34 +60,29 @@
       <description>PS5 Browser App. - Checksum: 8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4</description>
     </item>
     <item>
-      <title>A53 Kstuff Shadowmountplus 3In1 (Source-Fixe)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: a27ab03b325cf2ff4551a8b5ea4c8103258039baed43c782cd9737819d666eef</description>
-    </item>
-    <item>
       <title>A53 Kstuff Smp (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: 957e48e57caa3dc204f309c5dd294f634d5535e592a6997692fed7291e3b24c5</description>
+      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: 1c67a2988620037cd81767555772ae0a7fa28ea50e8c988c5186180cb8ab6557</description>
     </item>
     <item>
       <title>Kstuff Ng (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf</link>
-      <description>Experimental Kstuff NG - Checksum: 0a28733975ac3de7124dd200e7576e9fd4fd001d167dc7ac86c1944b47c0169e</description>
+      <description>Experimental Kstuff NG - Checksum: 3cb9ff1cfb03d640dc1bc62b1cb75dbcfda4fc787cb5bf25fbf85305653c4391</description>
     </item>
     <item>
       <title>Kstuff 1.13 Fpkg Dr Test3 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf</link>
-      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 - Checksum: 029090c5f338b93323a0cdb88f7bd10a0cb668cca30072a824bb29c0b12229d3</description>
+      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 - Checksum: 5f9584511dabb182d3be7782e32d1077c4ffbf46a53347bb460e396b3988934a</description>
     </item>
     <item>
       <title>A53 Ppr Install 1140 20.09 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf</link>
-      <description>a53_ppr_install_1140_20.09.elf - support 1.00-11.40 - Checksum: 339f11f831b9771bb9373fa969de26d98caaf03454c55c542497b9430c752cb8</description>
+      <description>a53_ppr_install_1140_20.09.elf - support 1.00-11.40 - Checksum: e9aa2d76689a0b2fb7c8e70a42d72ccf3bfe753e916ed1e329693cc5b922bf9d</description>
     </item>
     <item>
       <title>A53 Ppr Install 1160 20.09 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf</link>
-      <description>a53_ppr_install_1160_20.09.elf - 11.60 only - Checksum: 398c80451c587da6b114379387c2c2e4009105f456c66ee6435ff028e63eccae</description>
+      <description>a53_ppr_install_1160_20.09.elf - 11.60 only - Checksum: c6a6b45bb7e40f93f8a7fd759207c58f558d5f2336fea78784a979677de94208</description>
     </item>
     <item>
       <title>Webkit Autoloader Installer (v0.5.2)</title>
@@ -228,6 +223,11 @@
       <title>Fgg Unpack (v0.1)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf</link>
       <description>Extract .zip and .7z archives directly on a jailbroken PlayStation 5. - Checksum: e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff</description>
+    </item>
+    <item>
+      <title>Ghost Toothapi (Source-Fixe)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf</link>
+      <description>ghost-toothAPI. - Checksum: 561d45adddf34460d7c15799fc338d839a64af743e65d5a3e5f83c1ad3612b0c</description>
     </item>
     <item>
       <title>Spectrum Library (1.4.8)</title>
