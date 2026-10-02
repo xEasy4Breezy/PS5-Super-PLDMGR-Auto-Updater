@@ -60,29 +60,34 @@
       <description>PS5 Browser App. - Checksum: 8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4</description>
     </item>
     <item>
+      <title>A53 Kstuff Shadowmountplus 3In1 (Source-Fixe)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf</link>
+      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: a0fab654b30f0230486926d753400f054983530d8edefb049128b3e3ee7dc7d2</description>
+    </item>
+    <item>
       <title>A53 Kstuff Smp (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: 1c67a2988620037cd81767555772ae0a7fa28ea50e8c988c5186180cb8ab6557</description>
+      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: 2ff1780457401d58a2e658ac9f243128f5d754ed1e25ce79ea68d6d8c1e9f79f</description>
     </item>
     <item>
       <title>Kstuff Ng (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf</link>
-      <description>Experimental Kstuff NG - Checksum: 3cb9ff1cfb03d640dc1bc62b1cb75dbcfda4fc787cb5bf25fbf85305653c4391</description>
+      <description>Experimental Kstuff NG - Checksum: b97e52d626013c5e3e569eaaba22d7a472d56b0f6e0b1bd0cc116aedddf2b05a</description>
     </item>
     <item>
       <title>Kstuff 1.13 Fpkg Dr Test3 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf</link>
-      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 - Checksum: 5f9584511dabb182d3be7782e32d1077c4ffbf46a53347bb460e396b3988934a</description>
+      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 - Checksum: 1037d46d03addedc61bf1f3bbc6fd706aee9c098509c53009bf757e2d287f29d</description>
     </item>
     <item>
       <title>A53 Ppr Install 1140 20.09 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf</link>
-      <description>a53_ppr_install_1140_20.09.elf - support 1.00-11.40 - Checksum: e9aa2d76689a0b2fb7c8e70a42d72ccf3bfe753e916ed1e329693cc5b922bf9d</description>
+      <description>a53_ppr_install_1140_20.09.elf - support 1.00-11.40 - Checksum: 0b8d2d73b8b97ebc26761eaccf5425cf17f11ed22530af081951aae048971ff4</description>
     </item>
     <item>
       <title>A53 Ppr Install 1160 20.09 (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf</link>
-      <description>a53_ppr_install_1160_20.09.elf - 11.60 only - Checksum: c6a6b45bb7e40f93f8a7fd759207c58f558d5f2336fea78784a979677de94208</description>
+      <description>a53_ppr_install_1160_20.09.elf - 11.60 only - Checksum: 4d0964765c2259dd843adbb68ca47385201b6a1f0ac65c18024b7f57f386e8cd</description>
     </item>
     <item>
       <title>Webkit Autoloader Installer (v0.5.2)</title>
@@ -227,7 +232,7 @@
     <item>
       <title>Ghost Toothapi (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf</link>
-      <description>ghost-toothAPI. - Checksum: 561d45adddf34460d7c15799fc338d839a64af743e65d5a3e5f83c1ad3612b0c</description>
+      <description>ghost-toothAPI. - Checksum: beae4b6fba3afe563fea2f17795c2cae934edcea0946870561cf9117f7f9f60b</description>
     </item>
     <item>
       <title>Spectrum Library (1.4.8)</title>
