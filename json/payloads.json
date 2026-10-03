@@ -107,7 +107,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "2e5a010c7b0cd8d4267129cbf7cb6b40a8697e451f5c06cfc4035449cde18691"
+      "checksum": "da0d3a9948c4ee363577fd9c3f6e66462d402264236f623c2e3bc05e6d982d05"
     },
     {
       "name": "A53 Kstuff Smp",
@@ -116,7 +116,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "61d6a87930f9d8a51ea52072b0ae201209c7c7190207edb22d092c1bec151045"
+      "checksum": "104074e7bee224b196b58d64f55d50f461baf929d43ea7132245b482e3e97b7d"
     },
     {
       "name": "Kstuff Ng",
@@ -125,7 +125,7 @@
       "description": "Experimental Kstuff NG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "2476269af68e2b36266c117c7c17c6830e549652dcab2bca742362c6e6e62a5a"
+      "checksum": "b85cd0780bada04ac41f4325ff10ad77e1447dcc99cd7214bed020a72b7e5ac3"
     },
     {
       "name": "Kstuff 1.13 Fpkg Dr Test3",
@@ -134,7 +134,7 @@
       "description": "Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "c10408b1d615aeddd0d4babc9ba3b5b77b1f696722b516d644572e904291af74"
+      "checksum": "14d480a2b5a053b41262cee9c6695703a29af42191a02ad61aaa2f6072bbff9c"
     },
     {
       "name": "A53 Ppr Install 1140 20.09",
@@ -143,7 +143,7 @@
       "description": "a53_ppr_install_1140_20.09.elf - support 1.00-11.40",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "c8b0754e5986fbe3e79891a14732c6ddb9a304da21ddd0d060fa29dfb718deb9"
+      "checksum": "a3e6207b9fc23529adc33e52948a4316e8437c252847521f359514112c4ca68a"
     },
     {
       "name": "A53 Ppr Install 1160 20.09",
@@ -152,7 +152,7 @@
       "description": "a53_ppr_install_1160_20.09.elf - 11.60 only",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "b6ac9e9afc02218c0abd20609e96adffc60ad0653ced32b17d2ae7ffc7de125a"
+      "checksum": "d4a878713beec80c8b87eaf01b3f65a27be7b841d48d6a12342455893bc17bd7"
     },
     {
       "name": "Webkit Autoloader Installer",
@@ -413,7 +413,7 @@
       "description": "ghost-toothAPI.",
       "version": "Source-Fixe",
       "category": "PS5 Utility",
-      "checksum": "1d2cb4c2da95932c5bfe4b9f245cdf078b6497280e377dd7748b1ecf8cdc49a2"
+      "checksum": "a62ef7c36cb70d420b3d0ae34a32bee3b4962bb9994ad8b87571e57bc9b80152"
     },
     {
       "name": "Spectrum Library",
@@ -903,12 +903,12 @@
     },
     {
       "name": "Shadowmountplus",
-      "filename": "ShadowMountPlus_v1.7beta3.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta3/ShadowMountPlus_v1.7beta3.elf",
+      "filename": "ShadowMountPlus_v1.7beta4.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/ShadowMountPlus_v1.7beta4.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta3",
+      "version": "1.7beta4",
       "category": "PS5 Game Dump",
-      "checksum": "2a7427e20ba7a70bd8cd01e47eb00ee7ca82db82dff3da7884f48f9c3fcbe95a"
+      "checksum": "fc4e5f715e76660ce34bde2adb10eaf1d069cb2cdf06f7a380896dfb62bd0c4a"
     },
     {
       "name": "Backpork",
