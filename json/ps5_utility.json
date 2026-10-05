@@ -108,15 +108,6 @@
       "version": "v0.1",
       "category": "PS5 Utility",
       "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
-    },
-    {
-      "name": "Ghost Toothapi",
-      "filename": "ghost-toothAPI.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf",
-      "description": "ghost-toothAPI.",
-      "version": "Source-Fixe",
-      "category": "PS5 Utility",
-      "checksum": "1a188bf7cf8a461a106ec5dbd4bb8c1f459f0f961471bee3a1d499e0dbae2f50"
     }
   ]
 }

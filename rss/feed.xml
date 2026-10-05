@@ -45,9 +45,9 @@
       <description>Daemon pour le jailbreak de Lapy - Checksum: e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed</description>
     </item>
     <item>
-      <title>PS5 Web File Manager (v1.9)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/ps5-web-file-manager_v1.9.elf</link>
-      <description>PS5 Web File Manager http://your-ps5-ip:8888. - Checksum: 7a6369489143c2b8887331a7235a6a77dd5667c794c4234973f8159fed92fe24</description>
+      <title>PS5 Web File Manager (v1.10)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/ps5-web-file-manager_v1.10.elf</link>
+      <description>PS5 Web File Manager http://your-ps5-ip:8888. - Checksum: dc28dfd499a97e389c5dbb6c1915404764d5a8f8d35869d2a7a9f5c98c2bc7ff</description>
     </item>
     <item>
       <title>PS5 File Explorer (file-explorer-v0.2.1)</title>
@@ -58,36 +58,6 @@
       <title>Browser Launcher (v1.0.0)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Browser/PS5_Browser_App/v1.0.0/browser_launcher_v1.0.0.elf</link>
       <description>PS5 Browser App. - Checksum: 8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4</description>
-    </item>
-    <item>
-      <title>A53 Kstuff Shadowmountplus 3In1 (Source-Fixe)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: 771bf9b9bd6f5ea57e5905ecf0e5fe30299a3dbdb3293936d91225b58ba9a050</description>
-    </item>
-    <item>
-      <title>A53 Kstuff Smp (Source-Fixe)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf</link>
-      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor - Checksum: 92e1c488fa6e1a75cd535aa4a2df3c994640803dc5e128cfb924e8be6aa686c7</description>
-    </item>
-    <item>
-      <title>Kstuff Ng (Source-Fixe)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/Kstuff-NG_EchoStrech_Experimental/Source-Fixe/Kstuff-NG_v1.00.elf</link>
-      <description>Experimental Kstuff NG - Checksum: dc1cb54f7ae7e05b4eda271e92e81c1978c6d0c902b8cd4fdd5f242f35d78a28</description>
-    </item>
-    <item>
-      <title>Kstuff 1.13 Fpkg Dr Test3 (Source-Fixe)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test3.elf</link>
-      <description>Experimental Kstuff DarkMor - kstuff-1.13-fpkg-dr-test3 - Checksum: 10bf7caf9e5baee37b7c5b804cc5614f2e3a1479e19df9752cde2de190c999ce</description>
-    </item>
-    <item>
-      <title>A53 Ppr Install 1140 20.09 (Source-Fixe)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf</link>
-      <description>a53_ppr_install_1140_20.09.elf - support 1.00-11.40 - Checksum: db5295f638dba6f2b19675e33f18f08d2beebab34918040fd52a92d51443e769</description>
-    </item>
-    <item>
-      <title>A53 Ppr Install 1160 20.09 (Source-Fixe)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf</link>
-      <description>a53_ppr_install_1160_20.09.elf - 11.60 only - Checksum: d088e6a46de0a0b082ea7aa6ef8ae93eb1dc4579982c3fae0ceea5fba15c661b</description>
     </item>
     <item>
       <title>Webkit Autoloader Installer (v0.5.2)</title>
@@ -160,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03</description>
     </item>
     <item>
-      <title>Ps5Upload (v5.41.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v5.41.0/ps5upload_v5.41.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 90db08434228a08554e06a949f26457fb25c9b607f126fa63616b8d261426dee</description>
+      <title>Ps5Upload (v6.1.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.1.0/ps5upload_v6.1.0.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 39bb275892ad9f07dfd6da56de9467945b0c9dc839db877cd00d881aa60481e9</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -228,11 +198,6 @@
       <title>Fgg Unpack (v0.1)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf</link>
       <description>Extract .zip and .7z archives directly on a jailbroken PlayStation 5. - Checksum: e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff</description>
-    </item>
-    <item>
-      <title>Ghost Toothapi (Source-Fixe)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf</link>
-      <description>ghost-toothAPI. - Checksum: 1a188bf7cf8a461a106ec5dbd4bb8c1f459f0f961471bee3a1d499e0dbae2f50</description>
     </item>
     <item>
       <title>Pegasus Dl (v1.10.1)</title>
@@ -328,6 +293,11 @@
       <title>Prosperomgr (v1.1)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf</link>
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c</description>
+    </item>
+    <item>
+      <title>Elf Launcher (1.1.7)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/1.1.7/elf-launcher_v1.1.7.elf</link>
+      <description>PS5 launcher for ELF payloads. - Checksum: d9da57df57e3e49dc2ca2ebc7f73bbc98bf16021eaeccb83e836801ddf46b71f</description>
     </item>
     <item>
       <title>Np Fake Signin (v1.4)</title>
