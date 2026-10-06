@@ -130,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03</description>
     </item>
     <item>
-      <title>Ps5Upload (v6.1.2)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.1.2/ps5upload_v6.1.2.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 1fdf0a79687a4a823dd7c331c267cf492f849bd2bc6666e2db496fc03e544162</description>
+      <title>Ps5Upload (v6.2.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.2.1/ps5upload_v6.2.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: eb0bf3b9f5c0004cecc5e2c43dbd3d0749fa6e032a9a4b0343c115d79fb10a96</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -295,9 +295,9 @@
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c</description>
     </item>
     <item>
-      <title>Elf Launcher (1.1.7)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/1.1.7/elf-launcher_v1.1.7.elf</link>
-      <description>PS5 launcher for ELF payloads. - Checksum: d9da57df57e3e49dc2ca2ebc7f73bbc98bf16021eaeccb83e836801ddf46b71f</description>
+      <title>Elf Launcher (payload-mirror)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/payload-mirror/elf-launcher_vpayload-mirror.elf</link>
+      <description>PS5 launcher for ELF payloads. - Checksum: f1e0aa745cdd8e3d65ac780193b317042e47da327ee632e2cbb25bc79108fe56</description>
     </item>
     <item>
       <title>Np Fake Signin (v1.4)</title>
