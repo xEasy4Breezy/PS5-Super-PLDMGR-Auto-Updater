@@ -47,7 +47,7 @@
     <item>
       <title>PS5 Web File Manager (v1.10)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/ps5-web-file-manager_v1.10.elf</link>
-      <description>PS5 Web File Manager http://your-ps5-ip:8888. - Checksum: dc28dfd499a97e389c5dbb6c1915404764d5a8f8d35869d2a7a9f5c98c2bc7ff</description>
+      <description>PS5 Web File Manager http://your-ps5-ip:8888. - Checksum: dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4</description>
     </item>
     <item>
       <title>PS5 File Explorer (file-explorer-v0.2.1)</title>
@@ -60,9 +60,9 @@
       <description>PS5 Browser App. - Checksum: 8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4</description>
     </item>
     <item>
-      <title>Webkit Autoloader Installer (v0.5.2)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf</link>
-      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a</description>
+      <title>Webkit Autoloader Installer (v0.6.0-pre-4488577)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.0-pre-4488577/webkit-autoloader-installer_v0.6.0-pre-4488577.elf</link>
+      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: 7b7e2284c331599a6193cb00fa7d5fd227d784ef95ceda32b1485989ff1d6b21</description>
     </item>
     <item>
       <title>Host Psm Poop2Jb V1.2.0 Instala Pldmgr En (v1.2.0)</title>
@@ -130,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03</description>
     </item>
     <item>
-      <title>Ps5Upload (v6.3.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.3.0/ps5upload_v6.3.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 9614060e2b7903bc583f14909dbade4357654e635606e29a4e93eee4886560b5</description>
+      <title>Ps5Upload (v6.3.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.3.1/ps5upload_v6.3.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 2ff17e8096fa06c36fe27f4ea28d750733a9d10677ae6c566fd851f07da6b136</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -280,9 +280,9 @@
       <description>PIZZA HEN is an experimental all-in-one PS5 homebrew environment. - Checksum: 8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345</description>
     </item>
     <item>
-      <title>Onionhen (v0.9.0-beta1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0-beta1/onionHEN_v0.9.0-beta1.elf</link>
-      <description>An all-in-one HEN and Toolbox for PlayStation 5. - Checksum: c587a0e92158d0a64f1c78e10a9743709b3ab194bee2d4cf8ffdd3147c3a7530</description>
+      <title>Onionhen (v0.9.0-beta2)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0-beta2/onionHEN_v0.9.0-beta2.elf</link>
+      <description>An all-in-one HEN and Toolbox for PlayStation 5. - Checksum: dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087</description>
     </item>
     <item>
       <title>Etahen 2.6B (Source-Fixe)</title>

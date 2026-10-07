@@ -80,7 +80,7 @@
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
       "version": "v1.10",
       "category": "PS5 File Explorer",
-      "checksum": "dc28dfd499a97e389c5dbb6c1915404764d5a8f8d35869d2a7a9f5c98c2bc7ff"
+      "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4"
     },
     {
       "name": "PS5 File Explorer",
@@ -102,12 +102,12 @@
     },
     {
       "name": "Webkit Autoloader Installer",
-      "filename": "webkit-autoloader-installer_v0.5.2.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
+      "filename": "webkit-autoloader-installer_v0.6.0-pre-4488577.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.0-pre-4488577/webkit-autoloader-installer_v0.6.0-pre-4488577.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.5.2",
+      "version": "v0.6.0-pre-4488577",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
+      "checksum": "7b7e2284c331599a6193cb00fa7d5fd227d784ef95ceda32b1485989ff1d6b21"
     },
     {
       "name": "Host Psm Poop2Jb V1.2.0 Instala Pldmgr En",
@@ -228,12 +228,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v6.3.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.3.0/ps5upload_v6.3.0.elf",
+      "filename": "ps5upload_v6.3.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.3.1/ps5upload_v6.3.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v6.3.0",
+      "version": "v6.3.1",
       "category": "PS5 Server",
-      "checksum": "9614060e2b7903bc583f14909dbade4357654e635606e29a4e93eee4886560b5"
+      "checksum": "2ff17e8096fa06c36fe27f4ea28d750733a9d10677ae6c566fd851f07da6b136"
     },
     {
       "name": "Airpsx",
@@ -498,12 +498,12 @@
     },
     {
       "name": "Onionhen",
-      "filename": "onionHEN_v0.9.0-beta1.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0-beta1/onionHEN_v0.9.0-beta1.elf",
+      "filename": "onionHEN_v0.9.0-beta2.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0-beta2/onionHEN_v0.9.0-beta2.elf",
       "description": "An all-in-one HEN and Toolbox for PlayStation 5.",
-      "version": "v0.9.0-beta1",
+      "version": "v0.9.0-beta2",
       "category": "PS5 HEN Loader",
-      "checksum": "c587a0e92158d0a64f1c78e10a9743709b3ab194bee2d4cf8ffdd3147c3a7530"
+      "checksum": "dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087"
     },
     {
       "name": "Etahen 2.6B",

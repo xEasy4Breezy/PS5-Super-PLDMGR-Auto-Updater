@@ -57,12 +57,12 @@
     },
     {
       "name": "Onionhen",
-      "filename": "onionHEN_v0.9.0-beta1.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0-beta1/onionHEN_v0.9.0-beta1.elf",
+      "filename": "onionHEN_v0.9.0-beta2.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0-beta2/onionHEN_v0.9.0-beta2.elf",
       "description": "An all-in-one HEN and Toolbox for PlayStation 5.",
-      "version": "v0.9.0-beta1",
+      "version": "v0.9.0-beta2",
       "category": "PS5 HEN Loader",
-      "checksum": "c587a0e92158d0a64f1c78e10a9743709b3ab194bee2d4cf8ffdd3147c3a7530"
+      "checksum": "dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087"
     },
     {
       "name": "Etahen 2.6B",
