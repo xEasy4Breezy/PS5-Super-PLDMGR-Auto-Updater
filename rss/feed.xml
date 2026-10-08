@@ -60,9 +60,9 @@
       <description>PS5 Browser App. - Checksum: 8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4</description>
     </item>
     <item>
-      <title>Webkit Autoloader Installer (v0.6.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.0/webkit-autoloader-installer_v0.6.0.elf</link>
-      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: b4dc090ea7f22529d507e684909ab4524a21a6a26777a425bf787dbffc5b419c</description>
+      <title>Webkit Autoloader Installer (v0.6.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.1/webkit-autoloader-installer_v0.6.1.elf</link>
+      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f</description>
     </item>
     <item>
       <title>Host Psm Poop2Jb V1.2.0 Instala Pldmgr En (v1.2.0)</title>
@@ -122,7 +122,7 @@
     <item>
       <title>Ftpsrv Drakmor (1.16-ng-stable)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf</link>
-      <description>Drakmor's variant of the FTP server. Port: 21 - Checksum: fba508465a8c892882e88e2834ac2b6c445583b81629257764725528f3f5fd6a</description>
+      <description>Drakmor's variant of the FTP server. Port: 21 - Checksum: f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32</description>
     </item>
     <item>
       <title>PS5 Ezremote Server (1.11)</title>
@@ -130,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03</description>
     </item>
     <item>
-      <title>Ps5Upload (v6.4.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.4.0/ps5upload_v6.4.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: b0392932ae957821fbaccee44d761a9320655995ccfa80c9ffdcc5cec2497f70</description>
+      <title>Ps5Upload (v6.5.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.5.1/ps5upload_v6.5.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: c1f924b6ccddde28a132f56aab4b30628bd79cbb98be6e9566d9768fbac93c3a</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -210,9 +210,9 @@
       <description>You need PS5-SHOP-APPKG.pkg DPI port 9040. - Checksum: c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b</description>
     </item>
     <item>
-      <title>Ps5Library (v0.2.55)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_freeshop/PS5Library/v0.2.55/PS5Library_v0.2.55.elf</link>
-      <description>You need PS5Library.pkg. - Checksum: 1efb53f018dc79803da3041c24bac6cc5dec31617fbd0eb09f5c53cfee27625d</description>
+      <title>Ps5Library (v0.2.70)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_freeshop/PS5Library/v0.2.70/PS5Library_v0.2.70.elf</link>
+      <description>You need PS5Library.pkg. - Checksum: 978c77ce7cd71940f2843704f4a5594868ae842abf2b286dfb7c2594390fb20c</description>
     </item>
     <item>
       <title>Uds Trophy Unlocker (v1.0.0)</title>
@@ -240,9 +240,14 @@
       <description>All-in-one media hub for jailbroken PlayStation 5 - Checksum: e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d</description>
     </item>
     <item>
-      <title>Pkg Manager (v1.4.1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf</link>
-      <description>A clean and intuitive package manager for PlayStation 5 - Checksum: 09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e</description>
+      <title>Pkg Manager (v1.5.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.0/pkg-manager_v1.5.0.elf</link>
+      <description>A clean and intuitive package manager for PlayStation 5 - Checksum: fb29a0e3c058cd69e00320668db57704207b827b92b92e0cd23fb5fe7fe1429d</description>
+    </item>
+    <item>
+      <title>Pkg Receiver (v1.2.9)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_pkg_tool/pkg-receiver/v1.2.9/pkg-receiver_v1.2.9.elf</link>
+      <description>A package manager for PlayStation 5 need PkgSender android app or windows app - Checksum: 6946d52c6c04a3f43d3141a505394ba8e0c6923f17fe471054e11567c9a526c7</description>
     </item>
     <item>
       <title>Etahen (2.5B)</title>
