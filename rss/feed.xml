@@ -5,6 +5,16 @@
     <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/</link>
     <description>Suivi automatique des payloads</description>
     <item>
+      <title>Garlic Savemgr (v1.13.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf</link>
+      <description>Save manager utility hosted on Forgejo. - Checksum: b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5</description>
+    </item>
+    <item>
+      <title>Garlic Worker (v1.1.7)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf</link>
+      <description>Garlic worker payload component. - Checksum: 2643f35cdfe9969cf775220dc4a65bc4ff0d08750c39bfb714b74dbbf29cd396</description>
+    </item>
+    <item>
       <title>Playstation 5 Save Mounter (v2.0.1)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/Playstation-5-Save-Mounter/v2.0.1/Playstation-5-Save-Mounter_v2.0.1.elf</link>
       <description>PS5 Save Mounter application. - Checksum: 79194e4d3dacd64065617084268c61a9751362ae8982e4fde2ffa734ac9e0841</description>
@@ -120,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03</description>
     </item>
     <item>
-      <title>Ps5Upload (v6.5.2)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.5.2/ps5upload_v6.5.2.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: bc95c23288272cfd669a062affc0e6886f0008dd0d869cc1f7f87ab2c6af3481</description>
+      <title>Ps5Upload (v6.6.3)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.6.3/ps5upload_v6.6.3.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 0c03c7648eb99b4c63d662198b6cd71df58ee775522bcd20a3d4527b475802ed</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -255,6 +265,11 @@
       <description>Interface d'administration et de gestion réseau pour envoyer, activer et ordonner vos fichiers ELF/BIN sur la console. - Checksum: 62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c</description>
     </item>
     <item>
+      <title>Elf Arsenal (v1.6.23)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
+      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées. - Checksum: 20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5</description>
+    </item>
+    <item>
       <title>Kura (v1.6.50)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5. - Checksum: 8bac520b2b99dcda8109838884380605736d8b1c23793754250bcef00536b6ab</description>
@@ -283,6 +298,11 @@
       <title>Elf Launcher (payload-mirror)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/payload-mirror/elf-launcher_vpayload-mirror.elf</link>
       <description>PS5 launcher for ELF payloads. - Checksum: f1e0aa745cdd8e3d65ac780193b317042e47da327ee632e2cbb25bc79108fe56</description>
+    </item>
+    <item>
+      <title>Np Fake Signin (v1.4)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin_v1.4.elf</link>
+      <description>Fake activate PS5 without PSN. - Checksum: d375e0ad450ef6b030baa4390e8450b29517e6e7144cdcdf834dc2bb4f9bc126</description>
     </item>
     <item>
       <title>PS5 Linux Loader (v2.5)</title>
