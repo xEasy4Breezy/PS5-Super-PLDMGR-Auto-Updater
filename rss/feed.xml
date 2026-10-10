@@ -130,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03</description>
     </item>
     <item>
-      <title>Ps5Upload (v6.8.1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.8.1/ps5upload_v6.8.1.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 4593fcbd6169b67a4dcbfda8f13b0f0485b9ac93adff19ab515957e2c1fa397b</description>
+      <title>Ps5Upload (v6.8.2)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.8.2/ps5upload_v6.8.2.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: e9cb922ea48f3e8007aefd2862c2d41dd522eea11a92c846b136333ab37e9e0d</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -410,9 +410,9 @@
       <description>PS5 payload for collecting hardware and runtime telemetry. - Checksum: ad5014112dec619779619d0ea01a984b3c8267fed682eca5687f34c9eade51cb</description>
     </item>
     <item>
-      <title>Cheatrunner (v0.17.2)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf</link>
-      <description>CheatRunner. - Checksum: 36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f</description>
+      <title>Cheatrunner (v0.18)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf</link>
+      <description>CheatRunner. - Checksum: 4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140</description>
     </item>
     <item>
       <title>Kylin Core Community Lite V131 Global Release (Source-Fixe)</title>
@@ -470,9 +470,9 @@
       <description>Dump Runner tool. - Checksum: 816ff23141f100004d882e53bfae80b6c29f6b9427df56524cd1a89403c40df4</description>
     </item>
     <item>
-      <title>Shadowmountplus (1.7beta5)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/ShadowMountPlus_v1.7beta5.elf</link>
-      <description>ShadowMountPlus payload for game mounting. - Checksum: 0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375</description>
+      <title>Shadowmountplus (1.7-beta5fix1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7-beta5fix1/ShadowMountPlus_v1.7-beta5fix1.elf</link>
+      <description>ShadowMountPlus payload for game mounting. - Checksum: e85fd63b705498488f39c09c9aea6f9fa22e0df2e932865de49a8cedf25172d5</description>
     </item>
     <item>
       <title>Backpork (0.1)</title>

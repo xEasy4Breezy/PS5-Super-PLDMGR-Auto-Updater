@@ -228,12 +228,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v6.8.1.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.8.1/ps5upload_v6.8.1.elf",
+      "filename": "ps5upload_v6.8.2.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.8.2/ps5upload_v6.8.2.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v6.8.1",
+      "version": "v6.8.2",
       "category": "PS5 Server",
-      "checksum": "4593fcbd6169b67a4dcbfda8f13b0f0485b9ac93adff19ab515957e2c1fa397b"
+      "checksum": "e9cb922ea48f3e8007aefd2862c2d41dd522eea11a92c846b136333ab37e9e0d"
     },
     {
       "name": "Airpsx",
@@ -732,12 +732,12 @@
     },
     {
       "name": "Cheatrunner",
-      "filename": "CheatRunner_v0.17.2.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf",
+      "filename": "CheatRunner_v0.18.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
       "description": "CheatRunner.",
-      "version": "v0.17.2",
+      "version": "v0.18",
       "category": "PS5 Cheat",
-      "checksum": "36ad03e236e6603aaaf05d95ed3399c7b54475a9bceba085cbe02899bc88ae0f"
+      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140"
     },
     {
       "name": "Kylin Core Community Lite V131 Global Release",
@@ -840,12 +840,12 @@
     },
     {
       "name": "Shadowmountplus",
-      "filename": "ShadowMountPlus_v1.7beta5.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/ShadowMountPlus_v1.7beta5.elf",
+      "filename": "ShadowMountPlus_v1.7-beta5fix1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7-beta5fix1/ShadowMountPlus_v1.7-beta5fix1.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta5",
+      "version": "1.7-beta5fix1",
       "category": "PS5 Game Dump",
-      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375"
+      "checksum": "e85fd63b705498488f39c09c9aea6f9fa22e0df2e932865de49a8cedf25172d5"
     },
     {
       "name": "Backpork",
