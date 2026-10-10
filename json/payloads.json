@@ -228,12 +228,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v6.8.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.8.0/ps5upload_v6.8.0.elf",
+      "filename": "ps5upload_v6.8.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.8.1/ps5upload_v6.8.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v6.8.0",
+      "version": "v6.8.1",
       "category": "PS5 Server",
-      "checksum": "a9e2aef4c83dc80f3a6704310437db9bd563b83ff9e825a67ec297646a44dadd"
+      "checksum": "4593fcbd6169b67a4dcbfda8f13b0f0485b9ac93adff19ab515957e2c1fa397b"
     },
     {
       "name": "Airpsx",
@@ -426,12 +426,12 @@
     },
     {
       "name": "Pkg Manager",
-      "filename": "pkg-manager_v1.5.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.0/pkg-manager_v1.5.0.elf",
+      "filename": "pkg-manager_v1.5.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.1/pkg-manager_v1.5.1.elf",
       "description": "A clean and intuitive package manager for PlayStation 5",
-      "version": "v1.5.0",
+      "version": "v1.5.1",
       "category": "PS5 Pkg Tool",
-      "checksum": "fb29a0e3c058cd69e00320668db57704207b827b92b92e0cd23fb5fe7fe1429d"
+      "checksum": "82e3548edcc41419b644482cccaef65689334fc0315dc20247f48b90bf182dca"
     },
     {
       "name": "Pkg Receiver",
@@ -525,12 +525,12 @@
     },
     {
       "name": "Elf Launcher",
-      "filename": "elf-launcher_vpayload-mirror.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/payload-mirror/elf-launcher_vpayload-mirror.elf",
+      "filename": "elf-launcher_v2.0.0.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/2.0.0/elf-launcher_v2.0.0.elf",
       "description": "PS5 launcher for ELF payloads.",
-      "version": "payload-mirror",
+      "version": "2.0.0",
       "category": "PS5 HEN Loader",
-      "checksum": "f1e0aa745cdd8e3d65ac780193b317042e47da327ee632e2cbb25bc79108fe56"
+      "checksum": "876e6c1173149e82334c2bac133c94acece52547ad1c1d4be9e694323bf24bb5"
     },
     {
       "name": "Np Fake Signin",
@@ -840,12 +840,12 @@
     },
     {
       "name": "Shadowmountplus",
-      "filename": "ShadowMountPlus_v1.7beta4.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/ShadowMountPlus_v1.7beta4.elf",
+      "filename": "ShadowMountPlus_v1.7beta5.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/ShadowMountPlus_v1.7beta5.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta4",
+      "version": "1.7beta5",
       "category": "PS5 Game Dump",
-      "checksum": "fc4e5f715e76660ce34bde2adb10eaf1d069cb2cdf06f7a380896dfb62bd0c4a"
+      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375"
     },
     {
       "name": "Backpork",

@@ -130,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03</description>
     </item>
     <item>
-      <title>Ps5Upload (v6.8.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.8.0/ps5upload_v6.8.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: a9e2aef4c83dc80f3a6704310437db9bd563b83ff9e825a67ec297646a44dadd</description>
+      <title>Ps5Upload (v6.8.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v6.8.1/ps5upload_v6.8.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 4593fcbd6169b67a4dcbfda8f13b0f0485b9ac93adff19ab515957e2c1fa397b</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -240,9 +240,9 @@
       <description>All-in-one media hub for jailbroken PlayStation 5 - Checksum: e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d</description>
     </item>
     <item>
-      <title>Pkg Manager (v1.5.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.0/pkg-manager_v1.5.0.elf</link>
-      <description>A clean and intuitive package manager for PlayStation 5 - Checksum: fb29a0e3c058cd69e00320668db57704207b827b92b92e0cd23fb5fe7fe1429d</description>
+      <title>Pkg Manager (v1.5.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.1/pkg-manager_v1.5.1.elf</link>
+      <description>A clean and intuitive package manager for PlayStation 5 - Checksum: 82e3548edcc41419b644482cccaef65689334fc0315dc20247f48b90bf182dca</description>
     </item>
     <item>
       <title>Pkg Receiver (v1.2.9)</title>
@@ -295,9 +295,9 @@
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c</description>
     </item>
     <item>
-      <title>Elf Launcher (payload-mirror)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/payload-mirror/elf-launcher_vpayload-mirror.elf</link>
-      <description>PS5 launcher for ELF payloads. - Checksum: f1e0aa745cdd8e3d65ac780193b317042e47da327ee632e2cbb25bc79108fe56</description>
+      <title>Elf Launcher (2.0.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/2.0.0/elf-launcher_v2.0.0.elf</link>
+      <description>PS5 launcher for ELF payloads. - Checksum: 876e6c1173149e82334c2bac133c94acece52547ad1c1d4be9e694323bf24bb5</description>
     </item>
     <item>
       <title>Np Fake Signin (v1.4)</title>
@@ -470,9 +470,9 @@
       <description>Dump Runner tool. - Checksum: 816ff23141f100004d882e53bfae80b6c29f6b9427df56524cd1a89403c40df4</description>
     </item>
     <item>
-      <title>Shadowmountplus (1.7beta4)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/ShadowMountPlus_v1.7beta4.elf</link>
-      <description>ShadowMountPlus payload for game mounting. - Checksum: fc4e5f715e76660ce34bde2adb10eaf1d069cb2cdf06f7a380896dfb62bd0c4a</description>
+      <title>Shadowmountplus (1.7beta5)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/ShadowMountPlus_v1.7beta5.elf</link>
+      <description>ShadowMountPlus payload for game mounting. - Checksum: 0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375</description>
     </item>
     <item>
       <title>Backpork (0.1)</title>
