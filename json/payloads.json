@@ -228,12 +228,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v7.0.8.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.0.8/ps5upload_v7.0.8.elf",
+      "filename": "ps5upload_v7.0.12.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.0.12/ps5upload_v7.0.12.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v7.0.8",
+      "version": "v7.0.12",
       "category": "PS5 Server",
-      "checksum": "085d27825a78bb2066c334506791e2a85e12240c0710db1e649e4bf15f8f4aa4"
+      "checksum": "6291b53c92d5e1e0b0f44253439615254fd8a876970fbdb4e368a9ed01175648"
     },
     {
       "name": "Airpsx",
@@ -525,12 +525,12 @@
     },
     {
       "name": "Elf Launcher",
-      "filename": "elf-launcher_v2.0.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/2.0.0/elf-launcher_v2.0.0.elf",
+      "filename": "elf-launcher_v2.0.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/2.0.1/elf-launcher_v2.0.1.elf",
       "description": "PS5 launcher for ELF payloads.",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "category": "PS5 HEN Loader",
-      "checksum": "876e6c1173149e82334c2bac133c94acece52547ad1c1d4be9e694323bf24bb5"
+      "checksum": "bea250dd2607952a87038ef3495e9e2723babe80423981c0a96e205c0136e7ae"
     },
     {
       "name": "Np Fake Signin",
