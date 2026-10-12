@@ -143,7 +143,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 | **Onionhen** | [v0.9.0-beta2](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0-beta2/onionHEN_v0.9.0-beta2.elf) | `dd2e78af12...` | An all-in-one HEN and Toolbox for PlayStation 5. |
 | **Etahen 2.6B** | [Source-Fixe](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin) | `512c74a9d6...` | etahen beta version experimental. |
 | **Prosperomgr** | [v1.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf) | `e7a6bb544a...` | A Web-Based All-In-One homebrew manager for your PlayStation 5 |
-| **Elf Launcher** | [2.0.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/2.0.1/elf-launcher_v2.0.1.elf) | `bea250dd26...` | PS5 launcher for ELF payloads. |
+| **Elf Launcher** | [2.0.2](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/2.0.2/elf-launcher_v2.0.2.elf) | `f09931e675...` | PS5 launcher for ELF payloads. |
 
 ### 🧪 PS5 Kstuff
 📂 **JSON Catégorie :** `https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/json/ps5_kstuff.json`

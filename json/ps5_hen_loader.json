@@ -84,12 +84,12 @@
     },
     {
       "name": "Elf Launcher",
-      "filename": "elf-launcher_v2.0.1.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/2.0.1/elf-launcher_v2.0.1.elf",
+      "filename": "elf-launcher_v2.0.2.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/2.0.2/elf-launcher_v2.0.2.elf",
       "description": "PS5 launcher for ELF payloads.",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "category": "PS5 HEN Loader",
-      "checksum": "bea250dd2607952a87038ef3495e9e2723babe80423981c0a96e205c0136e7ae"
+      "checksum": "f09931e6754834a32b8cb9fa39ef7222360d9575076865bf84c77d227f305fd1"
     }
   ]
 }
