@@ -30,14 +30,14 @@
       <description>A lightweight, open-source real-time FPS counter for PlayStation 5. - Checksum: bb74aa448952e9af4fb001f256f48b3b15fdedff88c2dec472ee9d16b20dbed5</description>
     </item>
     <item>
-      <title>Overlay Payload (v0.0.18)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/overlay_payload_v0.0.18.elf</link>
-      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). - Checksum: b144a1594e328279966797dc9e79cf8675156d447fc232d07f94a01d16a44013</description>
+      <title>Overlay Payload (v1.0.19)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload_v1.0.19.elf</link>
+      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). - Checksum: d663a8eb3756994a3f409a9a8624f838c4755f2924b8c936f62101920acfd285</description>
     </item>
     <item>
-      <title>PS5 Overlay Kus (v0.0.18)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/ps5-overlay-kus_v1.0.18_v0.0.18.elf</link>
-      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). - Checksum: 96562d1fc8deb641c67e19dc618cf2334f14512bc02e15732f53361f31005e29</description>
+      <title>PS5 Overlay Kus (v1.0.19)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf</link>
+      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). - Checksum: fbb798d01fa413ca0d04b81ff9c719e1da0535e4145858459d9982e163b975d1</description>
     </item>
     <item>
       <title>Lapy Jb Daemon (Source-Fixe)</title>
@@ -130,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03</description>
     </item>
     <item>
-      <title>Ps5Upload (v7.1.1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.1.1/ps5upload_v7.1.1.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: af29de2be5c5e7ba183df4e0f0e6284da11fa264c0e18ce99a9cdee248e4ca44</description>
+      <title>Ps5Upload (v7.1.2)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.1.2/ps5upload_v7.1.2.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: dde5731e9423112c243cde2c13165b5992f99e3ec35eb423e2c2bcbfab0ee564</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>

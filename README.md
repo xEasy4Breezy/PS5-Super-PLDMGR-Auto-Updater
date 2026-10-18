@@ -69,8 +69,8 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | **Common Fps Ps5** | [v1.2.3](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf) | `bb74aa4489...` | A lightweight, open-source real-time FPS counter for PlayStation 5. |
-| **Overlay Payload** | [v0.0.18](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/overlay_payload_v0.0.18.elf) | `b144a1594e...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
-| **PS5 Overlay Kus** | [v0.0.18](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/ps5-overlay-kus_v1.0.18_v0.0.18.elf) | `96562d1fc8...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
+| **Overlay Payload** | [v1.0.19](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload_v1.0.19.elf) | `d663a8eb37...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
+| **PS5 Overlay Kus** | [v1.0.19](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf) | `fbb798d01f...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
 
 ### 📦 Ps5-Webkit-Autoloader
 📂 **JSON Catégorie :** `https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/json/ps5-webkit-autoloader.json`
@@ -217,7 +217,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 | **Klogsrv** | [v0.9](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec1442...` | Kernel log server daemon. Port: 3232 |
 | **Ftpsrv Drakmor** | [1.16-ng-stable](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf) | `f19ae469b2...` | Drakmor's variant of the FTP server. Port: 21 |
 | **PS5 Ezremote Server** | [1.11](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf) | `0f36b7ea3c...` | Easy remote server component. Port: 8080 |
-| **Ps5Upload** | [v7.1.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.1.1/ps5upload_v7.1.1.elf) | `af29de2be5...` | PS5 Upload server / tool. Port: 9025 |
+| **Ps5Upload** | [v7.1.2](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.1.2/ps5upload_v7.1.2.elf) | `dde5731e94...` | PS5 Upload server / tool. Port: 9025 |
 | **Airpsx** | [0.19](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf) | `ae025ca772...` | AirPSX server tool for PS5 ecosystem. |
 
 ### 📦 PS5 Themes-Avatars
