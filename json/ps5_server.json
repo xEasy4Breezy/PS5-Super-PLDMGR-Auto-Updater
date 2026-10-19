@@ -62,7 +62,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8"
+      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
     },
     {
       "name": "Ftpsrv Drakmor",
@@ -84,12 +84,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v7.1.8.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.1.8/ps5upload_v7.1.8.elf",
+      "filename": "ps5upload_v7.1.9.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.1.9/ps5upload_v7.1.9.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v7.1.8",
+      "version": "v7.1.9",
       "category": "PS5 Server",
-      "checksum": "2e7b45ca91a2aa0b3fb8f6f1478d77d925e6479ec83842f3971543b35d9bfa5f"
+      "checksum": "a9674bd22737688783c1857817d032ddf2fd5ca4e750eea17175428556271141"
     },
     {
       "name": "Airpsx",
