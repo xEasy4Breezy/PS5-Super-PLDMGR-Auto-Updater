@@ -21,12 +21,12 @@
     },
     {
       "name": "Elfldr",
-      "filename": "elfldr_v0.26.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/elfldr/v0.26/elfldr_v0.26.elf",
+      "filename": "elfldr_v0.27.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
       "description": "ELF Loader utility. Port: 9020 / 9021",
-      "version": "v0.26",
+      "version": "v0.27",
       "category": "PS5 Server",
-      "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1"
+      "checksum": "82f6227610172c98bad6efe68219fc93a10027035991f47eb4b75532d023407d"
     },
     {
       "name": "Ftpsrv Ps5 Payload",
@@ -62,7 +62,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8"
+      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
     },
     {
       "name": "Ftpsrv Drakmor",
@@ -84,12 +84,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v7.1.11.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.1.11/ps5upload_v7.1.11.elf",
+      "filename": "ps5upload_v7.1.13.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.1.13/ps5upload_v7.1.13.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v7.1.11",
+      "version": "v7.1.13",
       "category": "PS5 Server",
-      "checksum": "d82120553ab8826f64e1ce3fa3137a51dc28e8ee99711ebbe783d5b86bf7f814"
+      "checksum": "46bb7dc0e7f28ded2859ac4392c151e39010354c79de2f323d73aaa861287a30"
     },
     {
       "name": "Airpsx",
