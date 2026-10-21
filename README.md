@@ -125,7 +125,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 | **PS5 App Dumper** | [v2.10](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf) | `c850f1df6f...` | PS5 App Dumper payload. |
 | **Dump Installer** | [1.07](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/dump_installer/1.07/dump_installer_v1.07.elf) | `9b01c20517...` | Dump Installer utility. |
 | **Dump Runner** | [v1.02](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/dump_runner/v1.02/dump_runner_v1.02.elf) | `816ff23141...` | Dump Runner tool. |
-| **Shadowmountplus** | [1.7beta6-fix2](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta6-fix2/ShadowMountPlus_v1.7beta6-fix2.elf) | `ec87ad20f7...` | ShadowMountPlus payload for game mounting. |
+| **Shadowmountplus** | [1.7beta7](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta7/ShadowMountPlus_v1.7beta7.elf) | `a8f9d7f76e...` | ShadowMountPlus payload for game mounting. |
 | **Backpork** | [0.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf) | `d74e4cd119...` | BackPork PS5 tool. |
 | **Apr Emu Updater** | [v2.0.6](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf) | `4f04464283...` | APR Emu Updater must always be loaded. |
 
@@ -175,7 +175,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| **Garlic Savemgr** | [v1.14.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.14.0/garlic-savemgr_v1.14.0.elf) | `0b96822e3f...` | Save manager utility hosted on Forgejo. |
+| **Garlic Savemgr** | [v1.14](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.14/garlic-savemgr_v1.14.elf) | `57763da9d3...` | Save manager utility hosted on Forgejo. |
 | **Garlic Worker** | [v1.1.7](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf) | `4d0055b1cd...` | Garlic worker payload component. |
 | **Playstation 5 Save Mounter** | [v2.0.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/Playstation-5-Save-Mounter/v2.0.1/Playstation-5-Save-Mounter_v2.0.1.elf) | `79194e4d3d...` | PS5 Save Mounter application. |
 | **Savemnt Offset Dumper** | [1.0.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf) | `946328551f...` | Offset dumper for save mounting utilities. |
