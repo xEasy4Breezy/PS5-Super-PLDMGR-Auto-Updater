@@ -130,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v7.4.3)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 1a7dfaff37d131adac59a74a454dd0a756a503d1022bddda5b5b7e619299e667</description>
+      <title>Ps5Upload (v7.5.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v7.5.1/ps5upload_v7.5.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 021c03c15d1b077558f8966ca46f38636f1934c084b930545098167e11abbc7b</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -198,11 +198,6 @@
       <title>Fgg Unpack (v0.1)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf</link>
       <description>Extract .zip and .7z archives directly on a jailbroken PlayStation 5. - Checksum: e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff</description>
-    </item>
-    <item>
-      <title>Pegasus Dl (v1.11.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf</link>
-      <description>free store webadmin http://your-ps5-ip:6970. - Checksum: 32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9</description>
     </item>
     <item>
       <title>Ps5Shopappkg Dpi (Source-Fixe)</title>
