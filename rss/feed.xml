@@ -85,14 +85,14 @@
       <description>Host-PSM pooP2JB. - Checksum: 90f1ec197e66bbf4fa1a3bce040d6a5d04d571c4f8290f608401e8f7c2e9e0a4</description>
     </item>
     <item>
-      <title>Zftpd (v1.6.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.6.0/zftpd_v1.6.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21 - Checksum: 39ed57bef579282418f822da2e58ea5d56acfa5aa4cd38816744b1f610bfa14d</description>
+      <title>Zhttp (v1.7.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zhttp_v1.7.0.elf</link>
+      <description>FTP server payload for PS5. Port: 21 - Checksum: 8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e</description>
     </item>
     <item>
-      <title>Zhttp (v1.6.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.6.0/zhttp_v1.6.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21 - Checksum: fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497</description>
+      <title>Zftpd (v1.7.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zftpd_v1.7.0.elf</link>
+      <description>FTP server payload for PS5. Port: 21 - Checksum: 533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484</description>
     </item>
     <item>
       <title>Elfldr (v0.27)</title>
@@ -130,9 +130,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v8.5.1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v8.5.1/ps5upload_v8.5.1.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 2039eb340f6c09f7fce6bd726ad526adb68e9e924351b21dba74720025267481</description>
+      <title>Ps5Upload (v8.6.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 3e7d67537a2eac9f92ae9330a90682499610b06a5058dd47cb99c2b567c62671</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -265,9 +265,9 @@
       <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées. - Checksum: 20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5</description>
     </item>
     <item>
-      <title>Kura (v1.6.50)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf</link>
-      <description>Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5. - Checksum: 8bac520b2b99dcda8109838884380605736d8b1c23793754250bcef00536b6ab</description>
+      <title>Kura (v1.6.51)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf</link>
+      <description>Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5. - Checksum: 57f96e4ad256a53ca812129d0ed7f3e104afb7088d0d4b24876dff78050a4547</description>
     </item>
     <item>
       <title>Pizza Hen (v2.00)</title>
