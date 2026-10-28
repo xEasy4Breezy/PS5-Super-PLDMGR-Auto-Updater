@@ -45,11 +45,6 @@
       <description>Dump Runner tool. - Checksum: 816ff23141f100004d882e53bfae80b6c29f6b9427df56524cd1a89403c40df4</description>
     </item>
     <item>
-      <title>Shadowmountplus (1.7beta9)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta9/ShadowMountPlus_v1.7beta9.elf</link>
-      <description>ShadowMountPlus payload for game mounting. - Checksum: 928a5a7e33d2801c1c14a5ed8ad83fcab07957ba3a5daccd382dba67d408b3e2</description>
-    </item>
-    <item>
       <title>Backpork (0.1)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf</link>
       <description>BackPork PS5 tool. - Checksum: d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52</description>
@@ -445,9 +440,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v8.7.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v8.7.0/ps5upload_v8.7.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 2ed23dcf25ea2ef08d9976b34a399415f991171cc28f014ff0e86a038e7bf789</description>
+      <title>Ps5Upload (v8.8.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v8.8.1/ps5upload_v8.8.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 54d9feb2bb8f876d829f3305d4aaf90244d48dff0aa94468b26ddec17a6dda56</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>

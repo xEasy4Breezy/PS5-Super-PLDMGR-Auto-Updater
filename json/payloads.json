@@ -74,15 +74,6 @@
       "checksum": "816ff23141f100004d882e53bfae80b6c29f6b9427df56524cd1a89403c40df4"
     },
     {
-      "name": "Shadowmountplus",
-      "filename": "ShadowMountPlus_v1.7beta9.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta9/ShadowMountPlus_v1.7beta9.elf",
-      "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta9",
-      "category": "PS5 Game Dump",
-      "checksum": "928a5a7e33d2801c1c14a5ed8ad83fcab07957ba3a5daccd382dba67d408b3e2"
-    },
-    {
       "name": "Backpork",
       "filename": "BackPork_v0.1.elf",
       "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
@@ -795,12 +786,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v8.7.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v8.7.0/ps5upload_v8.7.0.elf",
+      "filename": "ps5upload_v8.8.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v8.8.1/ps5upload_v8.8.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v8.7.0",
+      "version": "v8.8.1",
       "category": "PS5 Server",
-      "checksum": "2ed23dcf25ea2ef08d9976b34a399415f991171cc28f014ff0e86a038e7bf789"
+      "checksum": "54d9feb2bb8f876d829f3305d4aaf90244d48dff0aa94468b26ddec17a6dda56"
     },
     {
       "name": "Airpsx",
