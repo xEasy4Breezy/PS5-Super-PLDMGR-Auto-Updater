@@ -45,9 +45,9 @@
       <description>Dump Runner tool. - Checksum: 816ff23141f100004d882e53bfae80b6c29f6b9427df56524cd1a89403c40df4</description>
     </item>
     <item>
-      <title>Shadowmountplus (1.7beta10)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta10/ShadowMountPlus_v1.7beta10.elf</link>
-      <description>ShadowMountPlus payload for game mounting. - Checksum: 8c6798232ae2a8fbcd209ab97fc4f8d4d47cf23b7eecfaa6349c0bfeb8e4a3d3</description>
+      <title>Shadowmountplus (1.7beta11)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/ShadowMountPlus_v1.7beta11.elf</link>
+      <description>ShadowMountPlus payload for game mounting. - Checksum: 08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da</description>
     </item>
     <item>
       <title>Backpork (0.1)</title>
@@ -65,9 +65,9 @@
       <description>Daemon pour le jailbreak de Lapy - Checksum: e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed</description>
     </item>
     <item>
-      <title>PS5 Web File Manager (v1.12)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/ps5-web-file-manager_v1.12.elf</link>
-      <description>PS5 Web File Manager http://your-ps5-ip:8888. - Checksum: 6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825</description>
+      <title>PS5 Web File Manager (v1.13-rc1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/ps5-web-file-manager_v1.13-rc1.elf</link>
+      <description>PS5 Web File Manager http://your-ps5-ip:8888. - Checksum: 8c9456a10ddde61dd0247b9171e71a285b955096ca7eb8e4ae3bdbe94f38f605</description>
     </item>
     <item>
       <title>PS5 File Explorer (file-explorer-v0.2.1)</title>
@@ -445,9 +445,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v9.1.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v9.1.0/ps5upload_v9.1.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 4004b092c48b531ceb2035c2213c5fe8b0a7aaa0af47df7370c67935649b0f1d</description>
+      <title>Ps5Upload (v9.2.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v9.2.1/ps5upload_v9.2.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 293535f8a55ed74beb729b4eee36e98076b6deee0e78295008b6370bd2d6b8af</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
