@@ -345,12 +345,12 @@
     },
     {
       "name": "PS5 Unified Autoloader",
-      "filename": "PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
+      "filename": "PS5_Unified_Autoloader_v0.1.7-abc3b82.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf",
       "description": "Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l'exploit.",
-      "version": "v0.1.6-e7093cd",
+      "version": "v0.1.7-abc3b82",
       "category": "PS5 HEN Loader",
-      "checksum": "edc4f805404f80497026ba2d74f675ee7043b1ef7f4ed92b82c1ef200aac123d"
+      "checksum": "cc6a464ceaa23472cc35d557efe60a5fc3f8ebd46cf1a84790c04a2be9c5bee1"
     },
     {
       "name": "Pldmgr",
@@ -795,12 +795,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v8.9.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v8.9.0/ps5upload_v8.9.0.elf",
+      "filename": "ps5upload_v9.0.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v9.0.1/ps5upload_v9.0.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v8.9.0",
+      "version": "v9.0.1",
       "category": "PS5 Server",
-      "checksum": "59e622340d9faf7c8a54e41d303a51f03408c88dbef409e299aea3ffc5c306a0"
+      "checksum": "36317d7d360faad3aeac6127199e7e61514dc2c2cc5f83c10835682951806d9f"
     },
     {
       "name": "Airpsx",
