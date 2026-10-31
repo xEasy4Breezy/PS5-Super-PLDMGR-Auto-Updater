@@ -305,9 +305,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v10.0.3)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v10.0.3/ps5upload_v10.0.3.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 5dd0997ae31abe1e095a83ce0166eb92ccefa0ae13189aa29e51365498e872a2</description>
+      <title>Ps5Upload (v10.1.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v10.1.0/ps5upload_v10.1.0.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 2608d338b47438f7702a7be04a7821c637ace1e64fb046e179eb29c5385dfda0</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -320,9 +320,9 @@
       <description>PS5 Browser App. - Checksum: 8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4</description>
     </item>
     <item>
-      <title>PS5 Webkit Autoloader (v0.7.0-prerelease-1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0-prerelease-1/ps5-webkit-autoloader_v0.7.0-prerelease-1.elf</link>
-      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: 4de384c640b2c4e8e5c4fcc7972fdb06185bdfdf8a1c105e1ad4581881c11b7e</description>
+      <title>PS5 Webkit Autoloader (v0.7.0-prerelease-2)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0-prerelease-2/ps5-webkit-autoloader_v0.7.0-prerelease-2.elf</link>
+      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: 2a202023ee9ef4c742c3dc05d872c679c3570ca28e50c668b4b2e86c732d27b1</description>
     </item>
     <item>
       <title>Host Psm Poop2Jb V1.2.0 Instala Onionhen En (v1.2.0)</title>
