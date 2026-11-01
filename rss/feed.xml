@@ -165,9 +165,9 @@
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c</description>
     </item>
     <item>
-      <title>Elf Launcher (v2.0.5)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/v2.0.5/elf-launcher_v2.0.5.elf</link>
-      <description>PS5 launcher for ELF payloads. - Checksum: 1b4494e669ef07525c77036777d36a20f1eb81a708fe8262b26ffffa9452f547</description>
+      <title>Elf Launcher (v2.0.6)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/v2.0.6/elf-launcher_v2.0.6.elf</link>
+      <description>PS5 launcher for ELF payloads. - Checksum: 530dd1e02d966f24932a10c96918ed36848718c352dc94f1e497084cf2ff4fde</description>
     </item>
     <item>
       <title>Kstuff Echostretch (v1.6.7)</title>
@@ -305,9 +305,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v10.3.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v10.3.0/ps5upload_v10.3.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: e3da25330b0b3aeba1ad1eab628726a7b7526bd2be2d5f9a40dba59527dfb155</description>
+      <title>Ps5Upload (v10.5.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v10.5.1/ps5upload_v10.5.1.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: b95d33b5afb9c51f90c41477d436e57a1ce8cd3539419f71d8a8f8be4223ff13</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
