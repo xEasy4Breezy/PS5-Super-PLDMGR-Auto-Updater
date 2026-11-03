@@ -210,8 +210,8 @@
       <description>Daemon pour le jailbreak de Lapy - Checksum: e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed</description>
     </item>
     <item>
-      <title>PS5 Web File Manager (v1.13-rc1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/ps5-web-file-manager_v1.13-rc1.elf</link>
+      <title>PS5 Web File Manager (v1.13-rc2)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/ps5-web-file-manager_v1.13-rc2.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888. - Checksum: 6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825</description>
     </item>
     <item>
@@ -305,9 +305,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v10.7.5)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v10.7.5/ps5upload_v10.7.5.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: aca8424e53bc08da2e3b41acb5bed563a73a31698a3b69825977f95625c3decb</description>
+      <title>Ps5Upload (v11.0.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.0.0/ps5upload_v11.0.0.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 027f62daaf060c90d159da9e2988e44fcc5f128ad866cb1b67d49a77d6485998</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
