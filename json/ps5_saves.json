@@ -12,12 +12,12 @@
     },
     {
       "name": "Garlic Worker",
-      "filename": "garlic-worker_v1.1.7.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
+      "filename": "garlic-worker_v1.1.8.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.1.7",
+      "version": "v1.1.8",
       "category": "PS5 Saves",
-      "checksum": "4d0055b1cd83701cd5d480ca7917843b3b50ff1d53eac6ca7e67a8f3b8643a0d"
+      "checksum": "7d50cfca84e2f456e1b0bd6e60ab2291e81fdeeb04e7816fbf900b2dba3b69db"
     },
     {
       "name": "Playstation 5 Save Mounter",
