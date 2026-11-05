@@ -142,7 +142,6 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 | **Onionhen** | [v0.9.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0/onionHEN_v0.9.0.elf) | `1f1f7c883d...` | An all-in-one HEN and Toolbox for PlayStation 5. |
 | **Etahen 2.6B** | [Source-Fixe](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin) | `512c74a9d6...` | etahen beta version experimental. |
 | **Prosperomgr** | [v1.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf) | `e7a6bb544a...` | A Web-Based All-In-One homebrew manager for your PlayStation 5 |
-| **Elf Launcher** | [v2.0.6](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/v2.0.6/elf-launcher_v2.0.6.elf) | `530dd1e02d...` | PS5 launcher for ELF payloads. |
 
 ### 🧪 PS5 Kstuff
 📂 **JSON Catégorie :** `https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/json/ps5_kstuff.json`
@@ -174,8 +173,8 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| **Garlic Savemgr** | [v1.15-beta5](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta5/garlic-savemgr_v1.15-beta5.elf) | `5475b1d671...` | Save manager utility hosted on Forgejo. |
-| **Garlic Worker** | [v1.2.2](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf) | `a1bbe4f4d0...` | Garlic worker payload component. |
+| **Garlic Savemgr** | [v1.15-beta9](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta9/garlic-savemgr_v1.15-beta9.elf) | `88ed2c04be...` | Save manager utility hosted on Forgejo. |
+| **Garlic Worker** | [v1.2.3](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.2.3/garlic-worker_v1.2.3.elf) | `a6c65b1bca...` | Garlic worker payload component. |
 | **Playstation 5 Save Mounter** | [v2.0.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/Playstation-5-Save-Mounter/v2.0.1/Playstation-5-Save-Mounter_v2.0.1.elf) | `79194e4d3d...` | PS5 Save Mounter application. |
 | **Savemnt Offset Dumper** | [1.0.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf) | `946328551f...` | Offset dumper for save mounting utilities. |
 
@@ -216,7 +215,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 | **Klogsrv** | [v0.9](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `7e89c33eb9...` | Kernel log server daemon. Port: 3232 |
 | **Ftpsrv Drakmor** | [1.16-ng-stable](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf) | `fba508465a...` | Drakmor's variant of the FTP server. Port: 21 |
 | **PS5 Ezremote Server** | [1.13](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a...` | Easy remote server component. Port: 8080 |
-| **Ps5Upload** | [v11.2.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.2.1/ps5upload_v11.2.1.elf) | `98daecdc73...` | PS5 Upload server / tool. Port: 9025 |
+| **Ps5Upload** | [v11.2.3](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.2.3/ps5upload_v11.2.3.elf) | `0a0fd1cd79...` | PS5 Upload server / tool. Port: 9025 |
 | **Airpsx** | [0.19](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf) | `ae025ca772...` | AirPSX server tool for PS5 ecosystem. |
 
 ### 📦 PS5 Themes-Avatars
@@ -241,6 +240,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 | :--- | :--- | :--- | :--- |
 | **Chronicloader Ps5 Payload** | [0.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf) | `3561120f85...` | ChronicLoader utility payload for PS5. |
 | **Ghostpad** | [v1.0.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/Ghostpad/v1.0.0/Ghostpad_v1.0.0.elf) | `94d43a8db7...` | Ghostpad controller input utility. |
+| **Ghostcontrol Ps5 Usb Controller Patcher** | [v2.2.5-beta](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/Ghostcontrol-PS5-USB-Controller-Patcher/v2.2.5-beta/Ghostcontrol-PS5-USB-Controller-Patcher_v2.2.5-beta.elf) | `9252b95bdf...` | USB Controller patcher tool for PS5. |
 | **Poords4 Status** | [v0.2.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/PoorDS4/v0.2.0/PoorDS4-status_v0.2.0.elf) | `100a21631a...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | **Poords4 Stop** | [v0.2.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf) | `fab1ad04da...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
 | **Poords4** | [v0.2.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf) | `c5f257ca2b...` | PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. |
@@ -296,11 +296,11 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 - **OpenSourcereR-dev** : [ps5debug-NG](https://github.com/OpenSourcereR-dev/ps5debug-NG)
 - **SonicIso** : [ELF Arsenal](https://git.etawen.dev/soniciso/elf-arsenal)
 - **StonedModder** : [ChronicLoader-PS5-Payload](https://github.com/StonedModder/ChronicLoader-PS5-Payload)
+- **StonedModder** : [Ghostcontrol-PS5-USB-Controller-Patcher](https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher)
 - **StonedModder** : [Ghostpad](https://github.com/StonedModder/Ghostpad)
 - **StonedModder** : [PS Game State Lib](https://github.com/StonedModder/ps-game-state-lib)
 - **StonedModder** : [PS-DiscordPresence](https://github.com/StonedModder/PS-DiscordPresence)
 - **StonedModder** : [savemnt-offset-dumper](https://github.com/StonedModder/savemnt-offset-dumper)
-- **X-F1REBALL-X** : [elf-launcher](https://github.com/X-F1REBALL-X/elf-launcher)
 - **aydencharles** : [kylin-core](https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/kylin-core-community-lite-v131-global-release.elf)
 - **aydencharles** : [onionHEN](https://github.com/aydencharles/onionHEN)
 - **barisyild** : [airpsx](https://github.com/barisyild/airpsx)

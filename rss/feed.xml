@@ -55,11 +55,6 @@
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c</description>
     </item>
     <item>
-      <title>Elf Launcher (v2.0.6)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/elf-launcher/v2.0.6/elf-launcher_v2.0.6.elf</link>
-      <description>PS5 launcher for ELF payloads. - Checksum: 530dd1e02d966f24932a10c96918ed36848718c352dc94f1e497084cf2ff4fde</description>
-    </item>
-    <item>
       <title>Bfplayer Standalone (v0.1.0-alpha.44)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/BFplayer-standalone_v0.1.0-alpha.44.elf</link>
       <description>BFplayer is a native media library and player for jailbroken PlayStation 5 consoles. - Checksum: 0d028deb145d6fc9a5b55d43a45e072919178fbb261c66cd914ebcfb0b3b05c0</description>
@@ -250,6 +245,11 @@
       <description>Ghostpad controller input utility. - Checksum: 94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1</description>
     </item>
     <item>
+      <title>Ghostcontrol Ps5 Usb Controller Patcher (v2.2.5-beta)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/Ghostcontrol-PS5-USB-Controller-Patcher/v2.2.5-beta/Ghostcontrol-PS5-USB-Controller-Patcher_v2.2.5-beta.elf</link>
+      <description>USB Controller patcher tool for PS5. - Checksum: 9252b95bdf019f83628e454d03c15709fd2a59abf1f218e3d02f141eae1e9a19</description>
+    </item>
+    <item>
       <title>Poords4 Status (v0.2.0)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/PoorDS4/v0.2.0/PoorDS4-status_v0.2.0.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. - Checksum: 100a21631a86a1fed456d822bb923012252575adf9cb0ca8e5346ccdacb38da5</description>
@@ -435,9 +435,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v11.2.1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.2.1/ps5upload_v11.2.1.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 98daecdc73a47e83ee9a9845536771e6c3125b0d1c238eb5d427faeecb16063b</description>
+      <title>Ps5Upload (v11.2.3)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.2.3/ps5upload_v11.2.3.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 0a0fd1cd7946e5bd364dfaaadc0e7b01c35c33fd48302385378ff743646b129a</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -460,14 +460,14 @@
       <description>Wallpaper modification utility for PS5. - Checksum: b18a866bac9deff45b921b7d3ea6143d541117b56c666d817ecdc81961829139</description>
     </item>
     <item>
-      <title>Garlic Savemgr (v1.15-beta5)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta5/garlic-savemgr_v1.15-beta5.elf</link>
-      <description>Save manager utility hosted on Forgejo. - Checksum: 5475b1d671fb185f1ec0eb21036dfed9afdd38b66f75068c6cd3b1d5bc185aa8</description>
+      <title>Garlic Savemgr (v1.15-beta9)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta9/garlic-savemgr_v1.15-beta9.elf</link>
+      <description>Save manager utility hosted on Forgejo. - Checksum: 88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062</description>
     </item>
     <item>
-      <title>Garlic Worker (v1.2.2)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf</link>
-      <description>Garlic worker payload component. - Checksum: a1bbe4f4d07371b6eef228ff0f08b21044c77f17d2175c3c77028b3a3110cac7</description>
+      <title>Garlic Worker (v1.2.3)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.2.3/garlic-worker_v1.2.3.elf</link>
+      <description>Garlic worker payload component. - Checksum: a6c65b1bca4dcb5eaee8148abc0e27242a302c07ef4e577a211bdefb5bac644c</description>
     </item>
     <item>
       <title>Playstation 5 Save Mounter (v2.0.1)</title>
