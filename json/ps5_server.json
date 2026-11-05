@@ -2,15 +2,6 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zhttp",
-      "filename": "zhttp_v1.7.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zhttp_v1.7.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
-      "category": "PS5 Server",
-      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
-    },
-    {
       "name": "Zftpd",
       "filename": "zftpd_v1.7.0.elf",
       "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zftpd_v1.7.0.elf",
@@ -18,6 +9,15 @@
       "version": "v1.7.0",
       "category": "PS5 Server",
       "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
+    },
+    {
+      "name": "Zhttp",
+      "filename": "zhttp_v1.7.0.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zhttp_v1.7.0.elf",
+      "description": "FTP server payload for PS5. Port: 21",
+      "version": "v1.7.0",
+      "category": "PS5 Server",
+      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
     },
     {
       "name": "Elfldr",
@@ -35,7 +35,7 @@
       "description": "FTP server background daemon. Port: 21",
       "version": "v0.21.1",
       "category": "PS5 Server",
-      "checksum": "0ccfe0097081be0514aabef34390a0f6776226e8b3eefbb047964584e0cfe3a9"
+      "checksum": "5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16"
     },
     {
       "name": "Websrv",
@@ -71,7 +71,7 @@
       "description": "Drakmor's variant of the FTP server. Port: 21",
       "version": "1.16-ng-stable",
       "category": "PS5 Server",
-      "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32"
+      "checksum": "fba508465a8c892882e88e2834ac2b6c445583b81629257764725528f3f5fd6a"
     },
     {
       "name": "PS5 Ezremote Server",
@@ -84,12 +84,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v11.0.8.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.0.8/ps5upload_v11.0.8.elf",
+      "filename": "ps5upload_v11.1.0.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.1.0/ps5upload_v11.1.0.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v11.0.8",
+      "version": "v11.1.0",
       "category": "PS5 Server",
-      "checksum": "f315f5645d7be6cc0736ec3183cfa67ec9d7ec689321295fb222f5b699b2542e"
+      "checksum": "1aaf50efa91aac8d26d53ce27ec223a3646a880892834977615c2770ff17197b"
     },
     {
       "name": "Airpsx",
