@@ -777,12 +777,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v11.4.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.4.0/ps5upload_v11.4.0.elf",
+      "filename": "ps5upload_v11.5.0.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.5.0/ps5upload_v11.5.0.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v11.4.0",
+      "version": "v11.5.0",
       "category": "PS5 Server",
-      "checksum": "35d95bce6b4bec134575164d45658051e7ab5689b331beac68c81d1f24842b33"
+      "checksum": "92e47765d122cb0adc262c06318b3647faf08a8910ebfb74f47c62738188c845"
     },
     {
       "name": "Airpsx",
@@ -831,12 +831,12 @@
     },
     {
       "name": "Garlic Worker",
-      "filename": "garlic-worker_v1.3.6.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.3.6/garlic-worker_v1.3.6.elf",
+      "filename": "garlic-worker_v1.3.9.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.3.6",
+      "version": "v1.3.9",
       "category": "PS5 Saves",
-      "checksum": "15bc85972644e61ffdf0e384373c399c6410bad56098a2fb6f08973958aaa0f8"
+      "checksum": "d8cab6d0995346217a49c48921527c8a79b2557c701738bb765eb0fe435a765a"
     },
     {
       "name": "Playstation 5 Save Mounter",
