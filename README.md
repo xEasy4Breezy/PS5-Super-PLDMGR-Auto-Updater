@@ -77,7 +77,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| **Webkit Autoloader Installer** | [v0.7.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0/webkit-autoloader-installer_v0.7.0.elf) | `10cb38baae...` | Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. |
+| **Webkit Autoloader Installer** | [v0.7.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf) | `df60538570...` | Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. |
 | **Host Psm Poop2Jb V1.2.0 Instala Pldmgr En** | [v1.2.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf) | `3ccc45938d...` | Host-PSM pooP2JB. |
 | **Host Psm Poop2Jb V1.2.0 Instala Onionhen** | [v1.2.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf) | `894432bb31...` | Host-PSM pooP2JB. |
 | **Host Psm Poop2Jb V1.2.0 Instala Pldmgr** | [v1.2.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf) | `b81609da1d...` | Host-PSM pooP2JB. |
@@ -173,7 +173,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| **Garlic Savemgr** | [v1.15-beta12](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta12/garlic-savemgr_v1.15-beta12.elf) | `52ada30119...` | Save manager utility hosted on Forgejo. |
+| **Garlic Savemgr** | [v1.15-beta14](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta14/garlic-savemgr_v1.15-beta14.elf) | `2f9f4b5757...` | Save manager utility hosted on Forgejo. |
 | **Garlic Worker** | [v1.3.9](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf) | `d8cab6d099...` | Garlic worker payload component. |
 | **Playstation 5 Save Mounter** | [v2.0.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/Playstation-5-Save-Mounter/v2.0.1/Playstation-5-Save-Mounter_v2.0.1.elf) | `79194e4d3d...` | PS5 Save Mounter application. |
 | **Savemnt Offset Dumper** | [1.0.0](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf) | `946328551f...` | Offset dumper for save mounting utilities. |
@@ -215,7 +215,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 | **Klogsrv** | [v0.9](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `7e89c33eb9...` | Kernel log server daemon. Port: 3232 |
 | **Ftpsrv Drakmor** | [1.16-ng-stable](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf) | `fba508465a...` | Drakmor's variant of the FTP server. Port: 21 |
 | **PS5 Ezremote Server** | [1.13](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a...` | Easy remote server component. Port: 8080 |
-| **Ps5Upload** | [v11.5.1](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.5.1/ps5upload_v11.5.1.elf) | `e6059aafb5...` | PS5 Upload server / tool. Port: 9025 |
+| **Ps5Upload** | [v11.5.2](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.5.2/ps5upload_v11.5.2.elf) | `1c2a6fe82d...` | PS5 Upload server / tool. Port: 9025 |
 | **Airpsx** | [0.19](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf) | `ae025ca772...` | AirPSX server tool for PS5 ecosystem. |
 
 ### 📦 PS5 Themes-Avatars

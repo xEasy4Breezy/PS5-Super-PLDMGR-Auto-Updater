@@ -309,12 +309,12 @@
     },
     {
       "name": "Webkit Autoloader Installer",
-      "filename": "webkit-autoloader-installer_v0.7.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0/webkit-autoloader-installer_v0.7.0.elf",
+      "filename": "webkit-autoloader-installer_v0.7.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.7.0",
+      "version": "v0.7.1",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "10cb38baae078e41f252cffb0d356829c89ee63fd3234f1fd1e6b19f81eab1c7"
+      "checksum": "df60538570e9811bb0b4652a3fdb3e1a35ec3455b3ca7c80edc4140c5bb47ce2"
     },
     {
       "name": "Host Psm Poop2Jb V1.2.0 Instala Pldmgr En",
@@ -777,12 +777,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v11.5.1.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.5.1/ps5upload_v11.5.1.elf",
+      "filename": "ps5upload_v11.5.2.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.5.2/ps5upload_v11.5.2.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v11.5.1",
+      "version": "v11.5.2",
       "category": "PS5 Server",
-      "checksum": "e6059aafb53eb48b8bc0ce31f2f0db3b0b5e58d97fea7b7cf813e66a5086b08c"
+      "checksum": "1c2a6fe82de8438219c01c8c866deffd2b88ec3896bccb649601ef1fe1bc84c5"
     },
     {
       "name": "Airpsx",
@@ -822,12 +822,12 @@
     },
     {
       "name": "Garlic Savemgr",
-      "filename": "garlic-savemgr_v1.15-beta12.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta12/garlic-savemgr_v1.15-beta12.elf",
+      "filename": "garlic-savemgr_v1.15-beta14.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta14/garlic-savemgr_v1.15-beta14.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta12",
+      "version": "v1.15-beta14",
       "category": "PS5 Saves",
-      "checksum": "52ada30119d4f40800047f6bb8ece2beb15f836b3f3c74fda100e80fb54da30e"
+      "checksum": "2f9f4b575757b480443282f3c885b1e63cc4637e0ea2a043a8c79e392c792af0"
     },
     {
       "name": "Garlic Worker",
