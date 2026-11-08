@@ -3,21 +3,21 @@
   "payloads": [
     {
       "name": "Garlic Savemgr",
-      "filename": "garlic-savemgr_v1.15-beta14.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta14/garlic-savemgr_v1.15-beta14.elf",
+      "filename": "garlic-savemgr_v1.15-beta15.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta15/garlic-savemgr_v1.15-beta15.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta14",
+      "version": "v1.15-beta15",
       "category": "PS5 Saves",
-      "checksum": "2f9f4b575757b480443282f3c885b1e63cc4637e0ea2a043a8c79e392c792af0"
+      "checksum": "7e6a494eb3d19964e912d9a991014e398d115db36b25b3ab8c31c1bc9dae5758"
     },
     {
       "name": "Garlic Worker",
-      "filename": "garlic-worker_v1.3.9.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf",
+      "filename": "garlic-worker_v1.4.0.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.3.9",
+      "version": "v1.4.0",
       "category": "PS5 Saves",
-      "checksum": "d8cab6d0995346217a49c48921527c8a79b2557c701738bb765eb0fe435a765a"
+      "checksum": "9993b4ea07e297baf8c82a8ed74ef3ee7e79b2d54bee09332c775ab7e95b4ba4"
     },
     {
       "name": "Playstation 5 Save Mounter",

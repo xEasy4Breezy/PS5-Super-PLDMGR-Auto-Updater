@@ -375,9 +375,9 @@
       <description>Dump Runner tool. - Checksum: 816ff23141f100004d882e53bfae80b6c29f6b9427df56524cd1a89403c40df4</description>
     </item>
     <item>
-      <title>Shadowmountplus (1.7beta11)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/ShadowMountPlus_v1.7beta11.elf</link>
-      <description>ShadowMountPlus payload for game mounting. - Checksum: 08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da</description>
+      <title>Shadowmountplus (1.7beta12)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/ShadowMountPlus_v1.7beta12.elf</link>
+      <description>ShadowMountPlus payload for game mounting. - Checksum: 8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd</description>
     </item>
     <item>
       <title>Backpork (0.1)</title>
@@ -435,9 +435,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v11.6.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v11.6.0/ps5upload_v11.6.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 13dca53b2216d920ad94b9564cba68fd085d4ea0f1f0193be5b5299c9872e67e</description>
+      <title>Ps5Upload (v12.0.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.0.0/ps5upload_v12.0.0.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: ec3da9d9a20a9141e722bc1101ade6e6264cbd147566e866f3f823143e9b28a3</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -460,14 +460,14 @@
       <description>Wallpaper modification utility for PS5. - Checksum: b18a866bac9deff45b921b7d3ea6143d541117b56c666d817ecdc81961829139</description>
     </item>
     <item>
-      <title>Garlic Savemgr (v1.15-beta14)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta14/garlic-savemgr_v1.15-beta14.elf</link>
-      <description>Save manager utility hosted on Forgejo. - Checksum: 2f9f4b575757b480443282f3c885b1e63cc4637e0ea2a043a8c79e392c792af0</description>
+      <title>Garlic Savemgr (v1.15-beta15)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta15/garlic-savemgr_v1.15-beta15.elf</link>
+      <description>Save manager utility hosted on Forgejo. - Checksum: 7e6a494eb3d19964e912d9a991014e398d115db36b25b3ab8c31c1bc9dae5758</description>
     </item>
     <item>
-      <title>Garlic Worker (v1.3.9)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf</link>
-      <description>Garlic worker payload component. - Checksum: d8cab6d0995346217a49c48921527c8a79b2557c701738bb765eb0fe435a765a</description>
+      <title>Garlic Worker (v1.4.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf</link>
+      <description>Garlic worker payload component. - Checksum: 9993b4ea07e297baf8c82a8ed74ef3ee7e79b2d54bee09332c775ab7e95b4ba4</description>
     </item>
     <item>
       <title>Playstation 5 Save Mounter (v2.0.1)</title>
