@@ -50,9 +50,9 @@
       <description>etahen beta version experimental. - Checksum: 512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126</description>
     </item>
     <item>
-      <title>Prosperomgr (v1.1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr_v1.1.elf</link>
-      <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c</description>
+      <title>Prosperomgr (v1.2)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr_v1.2.elf</link>
+      <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: 127394cc4f1ac7347fea509e010e80bab7b5ee13d820665474cdc3928d173bce</description>
     </item>
     <item>
       <title>Bfplayer Standalone (v0.1.0-alpha.44)</title>
@@ -405,9 +405,9 @@
       <description>ELF Loader utility. Port: 9020 / 9021 - Checksum: 82f6227610172c98bad6efe68219fc93a10027035991f47eb4b75532d023407d</description>
     </item>
     <item>
-      <title>Ftpsrv Ps5 Payload (v0.21.1)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf</link>
-      <description>FTP server background daemon. Port: 21 - Checksum: 5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16</description>
+      <title>Ftpsrv Ps5 Payload (v0.22)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ftpsrv_ps5-payload/v0.22/ftpsrv_ps5-payload_v0.22.elf</link>
+      <description>FTP server background daemon. Port: 21 - Checksum: 50a5d2bb188a825eedce13b4d3ca92f5c6c71852f591f1506860fd30d6f45363</description>
     </item>
     <item>
       <title>Websrv (v0.35)</title>
@@ -435,9 +435,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v12.0.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.0.0/ps5upload_v12.0.0.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: ec3da9d9a20a9141e722bc1101ade6e6264cbd147566e866f3f823143e9b28a3</description>
+      <title>Ps5Upload (v12.1.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.1.0/ps5upload_v12.1.0.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: c7235dc594c00e04fa0d946ffe18ca3d93d8505affd621669e357e79ef48af80</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -460,14 +460,14 @@
       <description>Wallpaper modification utility for PS5. - Checksum: b18a866bac9deff45b921b7d3ea6143d541117b56c666d817ecdc81961829139</description>
     </item>
     <item>
-      <title>Garlic Savemgr (v1.15-beta15)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta15/garlic-savemgr_v1.15-beta15.elf</link>
-      <description>Save manager utility hosted on Forgejo. - Checksum: 7e6a494eb3d19964e912d9a991014e398d115db36b25b3ab8c31c1bc9dae5758</description>
+      <title>Garlic Savemgr (v1.15-beta16)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta16/garlic-savemgr_v1.15-beta16.elf</link>
+      <description>Save manager utility hosted on Forgejo. - Checksum: d6a6048e6b5b56a30d07c926155b18d4b95e07b96dbf7631d1e8ded765880471</description>
     </item>
     <item>
-      <title>Garlic Worker (v1.4.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf</link>
-      <description>Garlic worker payload component. - Checksum: 9993b4ea07e297baf8c82a8ed74ef3ee7e79b2d54bee09332c775ab7e95b4ba4</description>
+      <title>Garlic Worker (v1.5.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf</link>
+      <description>Garlic worker payload component. - Checksum: 9051a70c9cc9245d836e8775f3ac3509500d27b5b7160427dfe6012d66a3f2be</description>
     </item>
     <item>
       <title>Playstation 5 Save Mounter (v2.0.1)</title>
