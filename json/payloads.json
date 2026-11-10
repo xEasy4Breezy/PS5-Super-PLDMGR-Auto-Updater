@@ -363,10 +363,10 @@
     },
     {
       "name": "PS5 Web File Manager",
-      "filename": "ps5-web-file-manager_v1.13-rc2.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/ps5-web-file-manager_v1.13-rc2.elf",
+      "filename": "ps5-web-file-manager_v1.14.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/ps5-web-file-manager_v1.14.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.13-rc2",
+      "version": "v1.14",
       "category": "PS5 File Explorer",
       "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825"
     },
@@ -777,12 +777,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.4.2.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.2/ps5upload_v12.4.2.elf",
+      "filename": "ps5upload_v12.4.3.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.3/ps5upload_v12.4.3.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.4.2",
+      "version": "v12.4.3",
       "category": "PS5 Server",
-      "checksum": "06dbb9022bcb71cb95178c29c9da39ae6e60d17becf9c1ff8938c98bd15fa8ef"
+      "checksum": "417eed905cce4be9b82a57e225c2a8eb094267418727578dfee95cb13108ed49"
     },
     {
       "name": "Airpsx",
