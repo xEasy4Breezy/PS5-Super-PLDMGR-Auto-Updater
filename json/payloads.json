@@ -777,12 +777,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.4.7.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.7/ps5upload_v12.4.7.elf",
+      "filename": "ps5upload_v12.4.8.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.8/ps5upload_v12.4.8.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.4.7",
+      "version": "v12.4.8",
       "category": "PS5 Server",
-      "checksum": "721d9dbca1e05c73aa58bdf4fe5093b4caf35f775a1d8702b080920ecb2111ab"
+      "checksum": "053154034ffdb5057a08a962b68a26708270c78da966ef0a9f433c3f6de860fc"
     },
     {
       "name": "Airpsx",
@@ -822,21 +822,21 @@
     },
     {
       "name": "Garlic Savemgr",
-      "filename": "garlic-savemgr_v1.15-beta16.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta16/garlic-savemgr_v1.15-beta16.elf",
+      "filename": "garlic-savemgr_v1.15-beta22.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta22/garlic-savemgr_v1.15-beta22.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta16",
+      "version": "v1.15-beta22",
       "category": "PS5 Saves",
-      "checksum": "d6a6048e6b5b56a30d07c926155b18d4b95e07b96dbf7631d1e8ded765880471"
+      "checksum": "fb8e0860161e3235e57bc9239d61d2b6483cf45395253745c05d34a3c9ebf1ca"
     },
     {
       "name": "Garlic Worker",
-      "filename": "garlic-worker_v1.5.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf",
+      "filename": "garlic-worker_v1.5.5.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.5.5/garlic-worker_v1.5.5.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.5.0",
+      "version": "v1.5.5",
       "category": "PS5 Saves",
-      "checksum": "9051a70c9cc9245d836e8775f3ac3509500d27b5b7160427dfe6012d66a3f2be"
+      "checksum": "2b4e95c0276cb132fd95601e7f53b07b0a3fccb9ed8c3bd32cb7d4d3ff2b99b3"
     },
     {
       "name": "Playstation 5 Save Mounter",
