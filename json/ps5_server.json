@@ -84,12 +84,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.4.8.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.8/ps5upload_v12.4.8.elf",
+      "filename": "ps5upload_v12.4.9.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.9/ps5upload_v12.4.9.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.4.8",
+      "version": "v12.4.9",
       "category": "PS5 Server",
-      "checksum": "053154034ffdb5057a08a962b68a26708270c78da966ef0a9f433c3f6de860fc"
+      "checksum": "58b8686c04ee703a1cb0a3c00b945caae1f9ec8bbf1a8f42f19947c274983596"
     },
     {
       "name": "Airpsx",
