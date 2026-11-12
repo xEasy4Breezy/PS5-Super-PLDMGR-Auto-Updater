@@ -40,9 +40,9 @@
       <description>PIZZA HEN is an experimental all-in-one PS5 homebrew environment. - Checksum: 8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345</description>
     </item>
     <item>
-      <title>Onionhen (v0.9.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/v0.9.0/onionHEN_v0.9.0.elf</link>
-      <description>An all-in-one HEN and Toolbox for PlayStation 5. - Checksum: 1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212</description>
+      <title>Onionhen (nightly)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/onionHEN/nightly/onionHEN_vnightly.elf</link>
+      <description>An all-in-one HEN and Toolbox for PlayStation 5. - Checksum: d0620cc430c10ac2bc7776bd10265742075c7b782b5c8c3fd05cf46e752ed49e</description>
     </item>
     <item>
       <title>Etahen 2.6B (Source-Fixe)</title>
@@ -435,9 +435,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v12.4.9)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.9/ps5upload_v12.4.9.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 58b8686c04ee703a1cb0a3c00b945caae1f9ec8bbf1a8f42f19947c274983596</description>
+      <title>Ps5Upload (v12.4.11)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.11/ps5upload_v12.4.11.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 476d569b8dc68bd07c6ef225b166e9d7e1f3aca843a8057ab08880a2c5c9cbd8</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
