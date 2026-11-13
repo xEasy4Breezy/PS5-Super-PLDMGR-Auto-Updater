@@ -53,9 +53,6 @@
     <outline text="ftpsrv_drakmor" title="ftpsrv_drakmor" type="rss" xmlUrl="https://github.com/drakmor/ftpsrv" author="drakmor"/>
     <outline text="kstuff-lite_drakmor" title="kstuff-lite_drakmor" type="rss" xmlUrl="https://github.com/drakmor/kstuff-lite" author="drakmor"/>
     <outline text="ps5-hwinfo" title="ps5-hwinfo" type="rss" xmlUrl="https://github.com/drakmor/ps5-hwinfo" author="drakmor"/>
-    <outline text="garlic-savemgr" title="garlic-savemgr" type="rss" xmlUrl="https://git.etawen.dev/earthonion/garlic-savemgr" author="earthonion"/>
-    <outline text="garlic-worker" title="garlic-worker" type="rss" xmlUrl="https://git.etawen.dev/earthonion/garlic-worker" author="earthonion"/>
-    <outline text="np-fake-signin" title="np-fake-signin" type="rss" xmlUrl="https://git.etawen.dev/earthonion/np-fake-signin" author="earthonion"/>
     <outline text="ps5-wallpaper-modd" title="ps5-wallpaper-modd" type="rss" xmlUrl="https://github.com/hgr9519/ps5-wallpaper-modd" author="hgr9519"/>
     <outline text="PS5-SELF-Decrypter" title="PS5-SELF-Decrypter" type="rss" xmlUrl="https://github.com/idlesauce/PS5-SELF-Decrypter" author="idlesauce"/>
     <outline text="ps5-remoteplay-get-pin" title="ps5-remoteplay-get-pin" type="rss" xmlUrl="https://github.com/idlesauce/ps5-remoteplay-get-pin" author="idlesauce"/>
@@ -95,7 +92,6 @@
     <outline text="PS5Library" title="PS5Library" type="rss" xmlUrl="https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg" author="rdiol12"/>
     <outline text="MemDBG" title="MemDBG" type="rss" xmlUrl="https://github.com/seregonwar/MemDBG" author="seregonwar"/>
     <outline text="zftpd" title="zftpd" type="rss" xmlUrl="https://github.com/seregonwar/zftpd" author="seregonwar"/>
-    <outline text="ps5-new-overlay" title="ps5-new-overlay" type="rss" xmlUrl="https://github.com/smoxa/ps5-new-overlay" author="smoxa"/>
     <outline text="uds-trophy-unlocker" title="uds-trophy-unlocker" type="rss" xmlUrl="https://git.etawen.dev/soniciso/uds-trophy-unlocker" author="soniciso"/>
     <outline text="apr-emu-updater" title="apr-emu-updater" type="rss" xmlUrl="https://github.com/tsuramatsu1/apr-emu-updater" author="tsuramatsu1"/>
     <outline text="etaHEN-Beta" title="etaHEN-Beta" type="rss" xmlUrl="https://github.com/zecoxao/zecoxao.github.io/raw/refs/heads/main/luasauce/payloads/etaHEN-2.6B.bin" author="zecoxao - LightningMods"/>
