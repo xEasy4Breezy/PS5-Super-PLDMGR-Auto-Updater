@@ -84,12 +84,12 @@
     },
     {
       "name": "Prosperomgr",
-      "filename": "ProsperoMgr_v1.2.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr_v1.2.elf",
+      "filename": "ProsperoMgr_v1.2.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.2.1/ProsperoMgr_v1.2.1.elf",
       "description": "A Web-Based All-In-One homebrew manager for your PlayStation 5",
-      "version": "v1.2",
+      "version": "v1.2.1",
       "category": "PS5 HEN Loader",
-      "checksum": "127394cc4f1ac7347fea509e010e80bab7b5ee13d820665474cdc3928d173bce"
+      "checksum": "f9240e53ac5f035b36fb6eca2845dd49827eddfb133d1bbb2810b1a025db9c5b"
     },
     {
       "name": "Elf Launcher",
@@ -786,12 +786,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.4.20.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.20/ps5upload_v12.4.20.elf",
+      "filename": "ps5upload_v12.4.22.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.22/ps5upload_v12.4.22.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.4.20",
+      "version": "v12.4.22",
       "category": "PS5 Server",
-      "checksum": "23584161eb851eca7185ede538387da8a280cfc84092e0c3dff488e41975cbba"
+      "checksum": "b60d65a9f753233cd1a25f46eb3c3e7de595f251a1b87d8a9deefaf4c2b8cf06"
     },
     {
       "name": "Airpsx",

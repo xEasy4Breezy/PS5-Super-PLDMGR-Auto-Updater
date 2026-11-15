@@ -50,9 +50,9 @@
       <description>etahen beta version experimental. - Checksum: 512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126</description>
     </item>
     <item>
-      <title>Prosperomgr (v1.2)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr_v1.2.elf</link>
-      <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: 127394cc4f1ac7347fea509e010e80bab7b5ee13d820665474cdc3928d173bce</description>
+      <title>Prosperomgr (v1.2.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ProsperoMgr/v1.2.1/ProsperoMgr_v1.2.1.elf</link>
+      <description>A Web-Based All-In-One homebrew manager for your PlayStation 5 - Checksum: f9240e53ac5f035b36fb6eca2845dd49827eddfb133d1bbb2810b1a025db9c5b</description>
     </item>
     <item>
       <title>Elf Launcher (v2.1.6)</title>
@@ -440,9 +440,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v12.4.20)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.20/ps5upload_v12.4.20.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 23584161eb851eca7185ede538387da8a280cfc84092e0c3dff488e41975cbba</description>
+      <title>Ps5Upload (v12.4.22)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.4.22/ps5upload_v12.4.22.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: b60d65a9f753233cd1a25f46eb3c3e7de595f251a1b87d8a9deefaf4c2b8cf06</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
