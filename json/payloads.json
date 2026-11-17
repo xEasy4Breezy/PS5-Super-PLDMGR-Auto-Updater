@@ -318,12 +318,12 @@
     },
     {
       "name": "Webkit Autoloader Installer",
-      "filename": "webkit-autoloader-installer_v0.7.1.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
+      "filename": "webkit-autoloader-installer_v0.8.0-pre-627ba8c.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.0-pre-627ba8c/webkit-autoloader-installer_v0.8.0-pre-627ba8c.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.7.1",
+      "version": "v0.8.0-pre-627ba8c",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "df60538570e9811bb0b4652a3fdb3e1a35ec3455b3ca7c80edc4140c5bb47ce2"
+      "checksum": "e12b69b53e1486412b834ca68f948b78d8182dccefd4e3f2f1db89a2ae666e5c"
     },
     {
       "name": "Host Psm Poop2Jb V1.2.0 Instala Pldmgr En",
@@ -786,12 +786,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.5.1.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.5.1/ps5upload_v12.5.1.elf",
+      "filename": "ps5upload_v12.6.0.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.0/ps5upload_v12.6.0.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.5.1",
+      "version": "v12.6.0",
       "category": "PS5 Server",
-      "checksum": "8ad4a30d7a7f542fbe75ce7080f4ae5ffce4fe072a127197aff8dfcb818de514"
+      "checksum": "a57fe14b5c3ec449208a90b68a798498653fce259a36f691f366376aa2b93df1"
     },
     {
       "name": "Airpsx",
