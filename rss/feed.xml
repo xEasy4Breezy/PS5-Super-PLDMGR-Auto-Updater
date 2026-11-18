@@ -95,6 +95,11 @@
       <description>PS5 Browser App. - Checksum: 8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4</description>
     </item>
     <item>
+      <title>Np Fake Signin (v1.4)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin_v1.4.elf</link>
+      <description>Fake activate PS5 without PSN. - Checksum: d375e0ad450ef6b030baa4390e8450b29517e6e7144cdcdf834dc2bb4f9bc126</description>
+    </item>
+    <item>
       <title>Lapy Jb Daemon (Source-Fixe)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf</link>
       <description>Daemon pour le jailbreak de Lapy - Checksum: e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed</description>
@@ -138,6 +143,11 @@
       <title>Pldmgr (v0.6.3)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.3/pldmgr_v0.6.3.elf</link>
       <description>Interface d'administration et de gestion réseau pour envoyer, activer et ordonner vos fichiers ELF/BIN sur la console. - Checksum: 2a42054fd9725e1d9595ff4add95abc30e5b49446fcdcb96c06775a376a841c4</description>
+    </item>
+    <item>
+      <title>Elf Arsenal (v1.6.23)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
+      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées. - Checksum: 20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5</description>
     </item>
     <item>
       <title>Kura (v1.6.51)</title>
@@ -435,9 +445,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v12.6.8)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.8/ps5upload_v12.6.8.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 782508beeac6219df8a75517f02aa114dcfb3fab8d2efb28149770aaf9d87435</description>
+      <title>Ps5Upload (v12.6.9)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.9/ps5upload_v12.6.9.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 10899fec6943124b70d229e983ab98be9eb1ac9d24573b6c8abcd7636f8757bb</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>

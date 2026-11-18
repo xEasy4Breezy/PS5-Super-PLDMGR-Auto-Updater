@@ -164,6 +164,15 @@
       "checksum": "8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4"
     },
     {
+      "name": "Np Fake Signin",
+      "filename": "np-fake-signin_v1.4.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin_v1.4.elf",
+      "description": "Fake activate PS5 without PSN.",
+      "version": "v1.4",
+      "category": "PS5 Activation",
+      "checksum": "d375e0ad450ef6b030baa4390e8450b29517e6e7144cdcdf834dc2bb4f9bc126"
+    },
+    {
       "name": "Lapy Jb Daemon",
       "filename": "lapy_jb_daemon.elf",
       "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf",
@@ -243,6 +252,15 @@
       "version": "v0.6.3",
       "category": "PS5 HEN Loader",
       "checksum": "2a42054fd9725e1d9595ff4add95abc30e5b49446fcdcb96c06775a376a841c4"
+    },
+    {
+      "name": "Elf Arsenal",
+      "filename": "ELF_Arsenal_v1.6.23.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
+      "description": "Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.",
+      "version": "v1.6.23",
+      "category": "PS5 HEN Loader",
+      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
     },
     {
       "name": "Kura",
@@ -777,12 +795,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.6.8.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.8/ps5upload_v12.6.8.elf",
+      "filename": "ps5upload_v12.6.9.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.9/ps5upload_v12.6.9.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.8",
+      "version": "v12.6.9",
       "category": "PS5 Server",
-      "checksum": "782508beeac6219df8a75517f02aa114dcfb3fab8d2efb28149770aaf9d87435"
+      "checksum": "10899fec6943124b70d229e983ab98be9eb1ac9d24573b6c8abcd7636f8757bb"
     },
     {
       "name": "Airpsx",
