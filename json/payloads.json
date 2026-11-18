@@ -786,12 +786,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.6.3.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.3/ps5upload_v12.6.3.elf",
+      "filename": "ps5upload_v12.6.4.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.4/ps5upload_v12.6.4.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.3",
+      "version": "v12.6.4",
       "category": "PS5 Server",
-      "checksum": "9e640b760fe7ae79f2dd7a7dfefda6720bbbf79ac4219a02b6f199df71e74c5d"
+      "checksum": "ef80322b107474dd3c1d5cdc8bc34de8b686da81268e0186ce5cd2b654bf44f7"
     },
     {
       "name": "Airpsx",
@@ -801,15 +801,6 @@
       "version": "0.19",
       "category": "PS5 Server",
       "checksum": "ae025ca7727b3a8abf6a705903ca9116a6fa6e7f7ead606916109cf9044c5d63"
-    },
-    {
-      "name": "Np Fake Signin",
-      "filename": "np-fake-signin_v1.4.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin_v1.4.elf",
-      "description": "Fake activate PS5 without PSN.",
-      "version": "v1.4",
-      "category": "PS5 Activation",
-      "checksum": "d375e0ad450ef6b030baa4390e8450b29517e6e7144cdcdf834dc2bb4f9bc126"
     },
     {
       "name": "PS5 Custom Tool Manager ",
@@ -828,24 +819,6 @@
       "version": "v1.0",
       "category": "PS5 Themes-Avatars",
       "checksum": "b18a866bac9deff45b921b7d3ea6143d541117b56c666d817ecdc81961829139"
-    },
-    {
-      "name": "Garlic Savemgr",
-      "filename": "garlic-savemgr_v1.15-beta23.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-savemgr/v1.15-beta23/garlic-savemgr_v1.15-beta23.elf",
-      "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta23",
-      "category": "PS5 Saves",
-      "checksum": "bef727f10a276e4797a16875eb31cb48da7e3e5bb06a0c1dcab46963ddc139f1"
-    },
-    {
-      "name": "Garlic Worker",
-      "filename": "garlic-worker_v1.5.6.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf",
-      "description": "Garlic worker payload component.",
-      "version": "v1.5.6",
-      "category": "PS5 Saves",
-      "checksum": "a4868ff180793e0ea7909823e59152df61a88c780113f6575b037b6b75c2dcb4"
     },
     {
       "name": "Playstation 5 Save Mounter",
