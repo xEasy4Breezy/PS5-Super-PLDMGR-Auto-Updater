@@ -25,11 +25,6 @@
       <description>Interface d'administration et de gestion réseau pour envoyer, activer et ordonner vos fichiers ELF/BIN sur la console. - Checksum: 2a42054fd9725e1d9595ff4add95abc30e5b49446fcdcb96c06775a376a841c4</description>
     </item>
     <item>
-      <title>Elf Arsenal (v1.6.23)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
-      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées. - Checksum: 20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5</description>
-    </item>
-    <item>
       <title>Kura (v1.6.51)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5. - Checksum: 57f96e4ad256a53ca812129d0ed7f3e104afb7088d0d4b24876dff78050a4547</description>
@@ -440,9 +435,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v12.6.10)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.10/ps5upload_v12.6.10.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 81a51ed76ba8b1901fc064620dbe36c77bb458600bfe53f17aa2fce273e7271f</description>
+      <title>Ps5Upload (v12.6.11)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.11/ps5upload_v12.6.11.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: c41ae74fb2cab8c6980b428a115b16d40dfbabde4627131b4fd5afea94a0dd3a</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
