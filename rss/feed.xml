@@ -175,9 +175,9 @@
       <description>kylin-core - Checksum: 2b731fc60b3d7996667b372bb8e31df7125d209ecacbb6838312a51b24b65c29</description>
     </item>
     <item>
-      <title>Webkit Autoloader Installer (v0.8.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.0/webkit-autoloader-installer_v0.8.0.elf</link>
-      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: 015959f76c48e45df2b331ee2a6b52096afa3c2f9f1cbf9a29e67be699a6455b</description>
+      <title>Webkit Autoloader Installer (v0.8.2)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.2/webkit-autoloader-installer_v0.8.2.elf</link>
+      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. - Checksum: 1c415bc124944c85b86a4751006b98010b977f142142d67306d13804899bad54</description>
     </item>
     <item>
       <title>Host Psm Poop2Jb V1.2.0 Instala Pldmgr En (v1.2.0)</title>
@@ -435,9 +435,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v12.6.14)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.14/ps5upload_v12.6.14.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 416e5791c488bc92eeb7d573ed7b798183416aae2d42e5212f3a3faf8bbc707f</description>
+      <title>Ps5Upload (v12.6.15)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.15/ps5upload_v12.6.15.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 593eda1e48d31a5b754da3ccbec046ce6c8e70048aead762fc8f631543a6acd2</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
