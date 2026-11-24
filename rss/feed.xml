@@ -135,11 +135,6 @@
       <description>Ghostpad controller input utility. - Checksum: 94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1</description>
     </item>
     <item>
-      <title>Ghostcontrol Ps5 Usb Controller Patcher (v2.2.5-beta)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/Ghostcontrol-PS5-USB-Controller-Patcher/v2.2.5-beta/Ghostcontrol-PS5-USB-Controller-Patcher_v2.2.5-beta.elf</link>
-      <description>USB Controller patcher tool for PS5. - Checksum: 9252b95bdf019f83628e454d03c15709fd2a59abf1f218e3d02f141eae1e9a19</description>
-    </item>
-    <item>
       <title>Poords4 Status (v0.2.0)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_utility/PoorDS4/v0.2.0/PoorDS4-status_v0.2.0.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5. - Checksum: 100a21631a86a1fed456d822bb923012252575adf9cb0ca8e5346ccdacb38da5</description>
@@ -270,9 +265,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v12.6.25)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.25/ps5upload_v12.6.25.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: ebf636206c7773a7232801923e321bebafef592c26de611980d9f83c8e8e0343</description>
+      <title>Ps5Upload (v12.6.26)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.26/ps5upload_v12.6.26.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 19da4e310383d9152cb96f078ae63e4207dec42ac8793a81719505605253eb13</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -430,9 +425,9 @@
       <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées. - Checksum: 20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5</description>
     </item>
     <item>
-      <title>Kura (v1.6.60)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/Kura/v1.6.60/Kura_v1.6.60.elf</link>
-      <description>Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5. - Checksum: c3bfb1db0f1fda7fe640e95711d78ae2cf9e94efa12742b5fc19c660ec43d627</description>
+      <title>Kura (v1.0.0)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/Kura/v1.0.0/Kura_v1.0.0.elf</link>
+      <description>Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5. - Checksum: 193a22edf446d095aed5d4a9f427fedef5de32b47379a35e6abd96d6e3519a07</description>
     </item>
     <item>
       <title>Pizza Hen (v2.00)</title>
