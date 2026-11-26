@@ -61,7 +61,7 @@ Bienvenue sur mon écosystème automatisé pour la scène jailbreak PS5 !
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| **Common Fps Ps5** | [v1.2.5](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf) | `5aac58f0f7...` | A lightweight, open-source real-time FPS counter for PlayStation 5. |
+| **Common Fps Ps5** | [v1.2.6](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.6/Common_FPS_PS5_v1.2.6.elf) | `9b647d6f38...` | A lightweight, open-source real-time FPS counter for PlayStation 5. |
 | **Overlay Payload** | [v1.0.19](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload_v1.0.19.elf) | `d663a8eb37...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
 | **PS5 Overlay Kus** | [v1.0.19](https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf) | `fbb798d01f...` | A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+). |
 
