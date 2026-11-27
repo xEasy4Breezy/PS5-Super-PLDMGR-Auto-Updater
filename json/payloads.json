@@ -345,12 +345,12 @@
     },
     {
       "name": "Ps5Library",
-      "filename": "PS5Library_v0.2.91.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_freeshop/PS5Library/v0.2.91/PS5Library_v0.2.91.elf",
+      "filename": "PS5Library_v0.2.92.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_freeshop/PS5Library/v0.2.92/PS5Library_v0.2.92.elf",
       "description": "You need PS5Library.pkg.",
-      "version": "v0.2.91",
+      "version": "v0.2.92",
       "category": "PS5 Freeshop",
-      "checksum": "ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82"
+      "checksum": "f2f25588354f0f04945913fa8c9dcd5095a4904f1da2207150fba787fa758176"
     },
     {
       "name": "Bfplayer Standalone",
@@ -389,22 +389,22 @@
       "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
     },
     {
-      "name": "Zftpd",
-      "filename": "zftpd_v1.7.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zftpd_v1.7.0.elf",
+      "name": "Zhttp",
+      "filename": "zhttp_v1.7.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.1/zhttp_v1.7.1.elf",
       "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
+      "version": "v1.7.1",
       "category": "PS5 Server",
-      "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
+      "checksum": "833adfc1f2274c63a0a1f60a274427ef6f1bc97d2077d13cbc8b91e62f0da6bf"
     },
     {
-      "name": "Zhttp",
-      "filename": "zhttp_v1.7.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zhttp_v1.7.0.elf",
+      "name": "Zftpd",
+      "filename": "zftpd_v1.7.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.1/zftpd_v1.7.1.elf",
       "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
+      "version": "v1.7.1",
       "category": "PS5 Server",
-      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
+      "checksum": "5a7cf2ff5d73418ea0109468fa7d77fc99356eaa338d58c35198affe60b96ea1"
     },
     {
       "name": "Elfldr",
@@ -471,12 +471,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.6.36.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.36/ps5upload_v12.6.36.elf",
+      "filename": "ps5upload_v12.6.42.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.42/ps5upload_v12.6.42.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.36",
+      "version": "v12.6.42",
       "category": "PS5 Server",
-      "checksum": "8de76f5628061c5c76c1bb919c7d7a88bf45bcca50c8a74ecc22228b29432525"
+      "checksum": "f5aef27e0f605daa4f8e83702ea25c098e46ecf3fc6b51d99e46d27bf49777ac"
     },
     {
       "name": "Airpsx",
@@ -747,15 +747,6 @@
       "version": "v0.6.3",
       "category": "PS5 HEN Loader",
       "checksum": "2a42054fd9725e1d9595ff4add95abc30e5b49446fcdcb96c06775a376a841c4"
-    },
-    {
-      "name": "Elf Arsenal",
-      "filename": "ELF_Arsenal_v1.6.23.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
-      "description": "Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.",
-      "version": "v1.6.23",
-      "category": "PS5 HEN Loader",
-      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
     },
     {
       "name": "Kura",

@@ -195,9 +195,9 @@
       <description>You need PS5-SHOP-APPKG.pkg DPI port 9040. - Checksum: c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b</description>
     </item>
     <item>
-      <title>Ps5Library (v0.2.91)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_freeshop/PS5Library/v0.2.91/PS5Library_v0.2.91.elf</link>
-      <description>You need PS5Library.pkg. - Checksum: ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82</description>
+      <title>Ps5Library (v0.2.92)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_freeshop/PS5Library/v0.2.92/PS5Library_v0.2.92.elf</link>
+      <description>You need PS5Library.pkg. - Checksum: f2f25588354f0f04945913fa8c9dcd5095a4904f1da2207150fba787fa758176</description>
     </item>
     <item>
       <title>Bfplayer Standalone (v0.1.0-alpha.44)</title>
@@ -220,14 +220,14 @@
       <description>All-in-one media hub for jailbroken PlayStation 5 - Checksum: e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d</description>
     </item>
     <item>
-      <title>Zftpd (v1.7.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zftpd_v1.7.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21 - Checksum: 533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484</description>
+      <title>Zhttp (v1.7.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.1/zhttp_v1.7.1.elf</link>
+      <description>FTP server payload for PS5. Port: 21 - Checksum: 833adfc1f2274c63a0a1f60a274427ef6f1bc97d2077d13cbc8b91e62f0da6bf</description>
     </item>
     <item>
-      <title>Zhttp (v1.7.0)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zhttp_v1.7.0.elf</link>
-      <description>FTP server payload for PS5. Port: 21 - Checksum: 8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e</description>
+      <title>Zftpd (v1.7.1)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.1/zftpd_v1.7.1.elf</link>
+      <description>FTP server payload for PS5. Port: 21 - Checksum: 5a7cf2ff5d73418ea0109468fa7d77fc99356eaa338d58c35198affe60b96ea1</description>
     </item>
     <item>
       <title>Elfldr (v0.28)</title>
@@ -265,9 +265,9 @@
       <description>Easy remote server component. Port: 8080 - Checksum: 0563ed163a921dd9d2fe8bb5e12ab60c28f9175cc1cb2f718a389213cecca807</description>
     </item>
     <item>
-      <title>Ps5Upload (v12.6.36)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.36/ps5upload_v12.6.36.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025 - Checksum: 8de76f5628061c5c76c1bb919c7d7a88bf45bcca50c8a74ecc22228b29432525</description>
+      <title>Ps5Upload (v12.6.42)</title>
+      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.42/ps5upload_v12.6.42.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025 - Checksum: f5aef27e0f605daa4f8e83702ea25c098e46ecf3fc6b51d99e46d27bf49777ac</description>
     </item>
     <item>
       <title>Airpsx (0.19)</title>
@@ -418,11 +418,6 @@
       <title>Pldmgr (v0.6.3)</title>
       <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.3/pldmgr_v0.6.3.elf</link>
       <description>Interface d'administration et de gestion réseau pour envoyer, activer et ordonner vos fichiers ELF/BIN sur la console. - Checksum: 2a42054fd9725e1d9595ff4add95abc30e5b49446fcdcb96c06775a376a841c4</description>
-    </item>
-    <item>
-      <title>Elf Arsenal (v1.6.23)</title>
-      <link>https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
-      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées. - Checksum: 20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5</description>
     </item>
     <item>
       <title>Kura (v1.0.0)</title>

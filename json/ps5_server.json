@@ -2,22 +2,22 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zftpd",
-      "filename": "zftpd_v1.7.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zftpd_v1.7.0.elf",
+      "name": "Zhttp",
+      "filename": "zhttp_v1.7.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.1/zhttp_v1.7.1.elf",
       "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
+      "version": "v1.7.1",
       "category": "PS5 Server",
-      "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
+      "checksum": "833adfc1f2274c63a0a1f60a274427ef6f1bc97d2077d13cbc8b91e62f0da6bf"
     },
     {
-      "name": "Zhttp",
-      "filename": "zhttp_v1.7.0.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.0/zhttp_v1.7.0.elf",
+      "name": "Zftpd",
+      "filename": "zftpd_v1.7.1.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/zftpd/v1.7.1/zftpd_v1.7.1.elf",
       "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
+      "version": "v1.7.1",
       "category": "PS5 Server",
-      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
+      "checksum": "5a7cf2ff5d73418ea0109468fa7d77fc99356eaa338d58c35198affe60b96ea1"
     },
     {
       "name": "Elfldr",
@@ -84,12 +84,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.6.36.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.36/ps5upload_v12.6.36.elf",
+      "filename": "ps5upload_v12.6.42.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.42/ps5upload_v12.6.42.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.36",
+      "version": "v12.6.42",
       "category": "PS5 Server",
-      "checksum": "8de76f5628061c5c76c1bb919c7d7a88bf45bcca50c8a74ecc22228b29432525"
+      "checksum": "f5aef27e0f605daa4f8e83702ea25c098e46ecf3fc6b51d99e46d27bf49777ac"
     },
     {
       "name": "Airpsx",
