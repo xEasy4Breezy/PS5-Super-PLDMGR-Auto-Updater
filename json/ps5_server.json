@@ -35,7 +35,7 @@
       "description": "FTP server background daemon. Port: 21",
       "version": "v0.22",
       "category": "PS5 Server",
-      "checksum": "5e845b93dac8906f15f72dbe5b3ee07d3a4c47474a3afd4126d8ba4a280b106d"
+      "checksum": "50a5d2bb188a825eedce13b4d3ca92f5c6c71852f591f1506860fd30d6f45363"
     },
     {
       "name": "Websrv",
@@ -53,7 +53,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb"
+      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5"
     },
     {
       "name": "Klogsrv",
@@ -62,7 +62,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
+      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8"
     },
     {
       "name": "Ftpsrv Drakmor",
@@ -84,12 +84,12 @@
     },
     {
       "name": "Ps5Upload",
-      "filename": "ps5upload_v12.6.42.elf",
-      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.42/ps5upload_v12.6.42.elf",
+      "filename": "ps5upload_v12.6.43.elf",
+      "url": "https://nexgen999.github.io/PS5-Super-PLDMGR-Auto-Updater/payloads/ps5_server/ps5upload/v12.6.43/ps5upload_v12.6.43.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.42",
+      "version": "v12.6.43",
       "category": "PS5 Server",
-      "checksum": "f5aef27e0f605daa4f8e83702ea25c098e46ecf3fc6b51d99e46d27bf49777ac"
+      "checksum": "8b8bfc0fcdf74e92a6a0c1eb934ead27b94a4cb75f0ff09658a3b7d1cc599a7f"
     },
     {
       "name": "Airpsx",
